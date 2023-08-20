@@ -1,0 +1,11 @@
+#कुछ देशों में जैसे केन्या में जनसंख्या वृद्धि दर ऊँची है।
+kuCa_1,xeSa_1,jEsA_1,kenyA,vqxXi_4+janasaMKyA_1+xara_1,UzcA_1,hE_2-0_hE_1
+1,2,3,4,5,6,7
+,,,loc,,,
+,,,[- - -],,,
+2:quant,7:k7p,7:krvn,7:k7p,5:pof__cn,7:mod,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+kenyA not found in dictionary.

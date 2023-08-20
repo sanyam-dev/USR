@@ -1,0 +1,11 @@
+#कोयंबटूर, कानपुर, चेन्नई, अहमदाबाद, मुंबई, कोलकाता, लुधियाना, पुडुचेरी और पानीपत कुछ अन्य महत्त्वपूर्ण केंद्र हैं।
+koyaMbatUra,kAnapura,cennaI,ahamaxAbAxa_1,muMbaI,kolakAwA_1,luXiyAnA_1,puducerI,pAnIpawa,kuCa_1,anya_1,mahawwvapUrNa_1,keMxra_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,,,loc,,,,,,,,,,
+[- - -],[- - -],[- - -],,[- - -],,,[- - -],[m s -],,,,,
+2:nmod__adj,3:nmod__adj,5:mod,5:pof__cn,8:mod,8:pof__cn,8:pof__cn,14:k1,14:k1,13:quant,13:mod,11:mod,14:k1s,0:main
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+affirmative
+koyaMbatUra,kAnapura,cennaI,ahamaxAbAxa_1,muMbaI,kolakAwA_1,luXiyAnA_1,puducerI,pAnIpawa not found in dictionary.

@@ -1,0 +1,31 @@
+#ये प्राथमिक, द्वितीयक और तृतीयक क्रियाएँ हैं।
+yaha,prAWamika_1,xviwIyaka_1,wqwIyaka_1,kriyA_1,hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+[m p a],,,,,
+5:dem,5:mod,2:mod,5:mod,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(prAWamika_1 primary_3 _primary_a_1)
+(prAWamika_2 elementary_2 _elementary_a_1)
+(prAWamika_3 initial_1 _initial_a_1)
+(prAWamika_4 prior_6 _prior_a_1)
+(prAWamika_5 preliminary_1 _preliminary_a_1)
+(xviwIyaka_1 second_2 dofm)
+(wqwIyaka_1 tertiary_2 _tertiary_a_1)
+(kriyA_1 action_6 _action_n_1)
+(kriyA_2 act_3 _act_n_of)
+(kriyA_3 function_5 _function_n_1)
+(kriyA_4 verb_1 _verb_n_1)
+(kriyA_5 duty_2 _duty_n_1)
+(kriyA_6 oath_1 _oath_n_of)
+(kriyA_7 work_6 _work_n_1)
+(kriyA_8 labour_2 _labor_n_1)
+(kriyA_9 process_5 _process_n_of)
+(kriyA_10 procedure_10 _procedure_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

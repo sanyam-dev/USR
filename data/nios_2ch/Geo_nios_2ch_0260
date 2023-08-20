@@ -1,0 +1,57 @@
+#ईंधन कोयला, पेट्रोलियम और प्राकृतिक गैस महत्वपूर्ण खनिज ईंधन हैं ।
+IMXana_1,koyalA_1,petroliyama_1,prAkqwika_1,gEsa_1,mahawvapUrNa_1,Kanija_2+IMXana_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+8:k7,8:pof__cn,8:pof__cn,5:mod,6:intf,7:mod,8:k7,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+
+(concept_label-concept_in_Eng-MRS_concept IMXana_1 fuel_2 _fuel_n_1)
+(concept_label-concept_in_Eng-MRS_concept IMXana_2 firewood_1 _firewood_n_1)
+(concept_label-concept_in_Eng-MRS_concept koyalA_1 coal_1 _coal_n_1)
+(concept_label-concept_in_Eng-MRS_concept koyalA_2 charcoal_1 _charcoal_n_1)
+(concept_label-concept_in_Eng-MRS_concept petroliyama_1 petroleum_1 _petroleum_n_1)
+(concept_label-concept_in_Eng-MRS_concept prAkqwika_1 natural_7 _natural_a_for)
+(concept_label-concept_in_Eng-MRS_concept gEsa_1 gas_1 _gas_n_1)
+(concept_label-concept_in_Eng-MRS_concept gEsa_2 gas-lamp_1 _lamp_n_1)
+(concept_label-concept_in_Eng-MRS_concept gEsa_4 flatus_4 _flatus/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept gEsa_1 gas_5 _gas_n_1)
+(concept_label-concept_in_Eng-MRS_concept mahawvapUrNa_1 important_6 _important_a_for)
+(concept_label-concept_in_Eng-MRS_concept mahawvapUrNa_2 valuable_3 _valuable_a_to-for)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 minerals_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_1 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 plateau_3 _plateau_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 minerals_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_1 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 plateau_3 _plateau_n_1)
+(concept_label-concept_in_Eng-MRS_concept IMXana_1 fuel_2 _fuel_n_1)
+(concept_label-concept_in_Eng-MRS_concept IMXana_2 firewood_1 _firewood_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(IMXana_1 fuel_2 _fuel_n_1)
+(IMXana_2 firewood_1 _firewood_n_1)
+(koyalA_1 coal_1 _coal_n_1)
+(koyalA_2 charcoal_1 _charcoal_n_1)
+(petroliyama_1 petroleum_1 _petroleum_n_1)
+(prAkqwika_1 natural_7 _natural_a_for)
+(gEsa_1 gas_1 _gas_n_1)
+(gEsa_2 gas-lamp_1 _lamp_n_1)
+(gEsa_4 flatus_4 _flatus/NN_u_unknown)
+(gEsa_1 gas_5 _gas_n_1)
+(mahawvapUrNa_1 important_6 _important_a_for)
+(mahawvapUrNa_2 valuable_3 _valuable_a_to-for)
+(Kanija_2 minerals_1 _mineral_n_1)
+(Kanija_2 mineral_1 _mineral_n_1)
+(Kanija_1 mineral_1 _mineral_n_1)
+(Kanija_2 plateau_3 _plateau_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

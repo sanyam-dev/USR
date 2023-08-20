@@ -1,0 +1,32 @@
+#द्वितीयक क्रियाएँ इन संसाधनों के प्रसंस्करण से संबंधित हैं।
+xviwIyaka_1,kriyA_1,yaha,saMsAXana_1,prasaMskaraNa_1,saMbaMXiwa_1,hE_1-0_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+,,[m p a],,,,
+2:mod,7:k1,4:dem,5:r6,7:ras-k1,7:mod,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(xviwIyaka_1 second_2 dofm)
+(kriyA_1 action_6 _action_n_1)
+(kriyA_2 act_3 _act_n_of)
+(kriyA_3 function_5 _function_n_1)
+(kriyA_4 verb_1 _verb_n_1)
+(kriyA_5 duty_2 _duty_n_1)
+(kriyA_6 oath_1 _oath_n_of)
+(kriyA_7 work_6 _work_n_1)
+(kriyA_8 labour_2 _labor_n_1)
+(kriyA_9 process_5 _process_n_of)
+(kriyA_10 procedure_10 _procedure_n_1)
+(saMsAXana_1 resource_1 _resource_n_1)
+(prasaMskaraNa_1 processing_3 _process_v_1)
+(saMbaMXiwa_1 related_2 _relate_v_to)
+(saMbaMXiwa_2 connected_2 _connect_v_to-with)
+(saMbaMXiwa_3 affiliated_1 _affiliate_v_with)
+(saMbaMXiwa_4 concerned_2 _concerned_a_about)
+(saMbaMXiwa_5 involved_3 _involved_a_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

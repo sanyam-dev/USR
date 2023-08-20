@@ -1,0 +1,61 @@
+#इससे मैग्मा बाहर निकलता है ।
+wyax,mEgmA_1,bAhara_1,nikala_1-wA_hE_1-wA_hE_1
+1,2,3,4
+,per,,
+[m s a],,,
+4:rh,4:k1,4:k7,0:main
+,,,
+,,,
+,,,
+affirmative
+wyax not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept bAhara_1 out_1 _out_p_dir)
+(concept_label-concept_in_Eng-MRS_concept bAhara_2 outside_2 _outside_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhara_3 exterior_1 _exterior_n_1)
+(concept_label-concept_in_Eng-MRS_concept bAhara_4 without_3 _without_p)
+(concept_label-concept_in_Eng-MRS_concept bAhara_5 beyond_2 _beyond_p)
+(concept_label-concept_in_Eng-MRS_concept bAhara_6 away_2 _away_p)
+(concept_label-concept_in_Eng-MRS_concept nikala_1 nickel_2 _nickel_n_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_2 emerge_3 _emerge_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_3 flow_8 _flow_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_4 shoot_18 _shoot_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_5 disappear_2 _disappear_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_6 excel_2 _excel_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_7 escape_5 _escape_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_8 secede_1 _secede/VB_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nikala_9 begin_7 _begin_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_10 develop_9 _develop_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_11 slip_6 _slip_v_2)
+(concept_label-concept_in_Eng-MRS_concept nikala_12 sell_9 _sell_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_13 elapse_10 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_14 pass_17 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_15 go_8 _go_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_16 depart_11 _depart_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_17 erupt_2 _erupt_v_to)
+(concept_label-concept_in_Eng-MRS_concept nikala_18 grow_16 _grow_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikala_19 rise_40 _rise_v_1)
+(bAhara_1 out_1 _out_p_dir)
+(bAhara_2 outside_2 _outside_a_1)
+(bAhara_3 exterior_1 _exterior_n_1)
+(bAhara_4 without_3 _without_p)
+(bAhara_5 beyond_2 _beyond_p)
+(bAhara_6 away_2 _away_p)
+(nikala_1 nickel_2 _nickel_n_1)
+(nikala_2 emerge_3 _emerge_v_1)
+(nikala_3 flow_8 _flow_v_1)
+(nikala_4 shoot_18 _shoot_v_1)
+(nikala_5 disappear_2 _disappear_v_1)
+(nikala_6 excel_2 _excel_v_1)
+(nikala_7 escape_5 _escape_v_1)
+(nikala_8 secede_1 _secede/VB_u_unknown)
+(nikala_9 begin_7 _begin_v_1)
+(nikala_10 develop_9 _develop_v_1)
+(nikala_11 slip_6 _slip_v_2)
+(nikala_12 sell_9 _sell_v_1)
+(nikala_13 elapse_10 _elapse_v_1)
+(nikala_14 pass_17 _pass_v_1)
+(nikala_15 go_8 _go_v_1)
+(nikala_16 depart_11 _depart_v_1)
+(nikala_17 erupt_2 _erupt_v_to)
+(nikala_18 grow_16 _grow_v_1)
+(nikala_19 rise_40 _rise_v_1)

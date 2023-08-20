@@ -1,0 +1,20 @@
+#कृषि क्या है?
+kqRi_1,kyA_1,hE_1-0_hE_1
+1,2,3
+,,
+,,
+3:k1,3:krvn,0:main
+,,
+,,
+,,
+interrogative
+(kqRi_1 agriculture_1 _agriculture_n_1)
+(kqRi_2 farming_2 _farm_v_1)
+(kqRi_3 cultivation_2 _cultivation_n_of)
+(kqRi_5 ploughing_1 _plough_v_1)
+(kqRi_7 harvest_2 _harvest_n_1)
+(kqRi_2+saMgaTana_4 farming_2_+organization_1 _farm_v_1+_organization_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

@@ -1,0 +1,19 @@
+#वृक्षों की जडों द्वारा अपक्षय ।
+vqkRa_1,jada_1,apakRaya_1
+1,2,3
+,,
+,,
+2:r6,3:mod,0:main
+,,
+,,
+,,
+affirmative
+
+(concept_label-concept_in_Eng-MRS_concept vqkRa_1 tree_8 _tree_n_of)
+(concept_label-concept_in_Eng-MRS_concept vqkRa_2 treeplanting_2 _treeplanting/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept apakRaya_1 atrophy_1 _atrophy/NN_u_unknown)
+(vqkRa_1 tree_8 _tree_n_of)
+(vqkRa_2 treeplanting_2 _treeplanting/NN_u_unknown)
+(jada_1 inorganic_3 _inorganic_a_1)
+(apakRaya_1 atrophy_1 _atrophy/NN_u_unknown)

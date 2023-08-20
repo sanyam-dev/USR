@@ -1,0 +1,11 @@
+#खाद्य संसाधन, वनस्पति तेल, सूती वस्त्र, डेयरी उत्पाद और चर्म उद्योग कृषि आधारित उद्योगों के उदाहरण हैं।
+KAxya_1,saMsAXana_3,vanaspawi_1,wela_1,sUwI_2,vaswra_1,deyarI_1,uwpAxa_3,carma_1,uxyoga_1,kqRi_1,AXAriwa_1,uxyogoM_1,uxAharaNa_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,,,,,,,,,,,,,,
+,,,,,,,[m s -],,,,,,,
+4:pof__cn,4:pof__cn,4:pof__cn,8:mod,8:pof__cn,8:pof__cn,8:pof__cn,14:r6,13:pof__cn,13:pof__cn,13:pof__cn,13:mod,14:r6,15:k1,0:main
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+affirmative
+uxyogoM_1 not found in dictionary.

@@ -1,0 +1,45 @@
+#या उसमें दरारें पडती हैं ।
+xarAra_3,pada_1,hE_1-wA_hE_1-wA_hE_1
+1,2,3
+,,
+[f p -],,
+3:k7,3:k1,0:main
+,,
+,,
+,,
+affirmative
+pada_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept xarAra_1 crevice_2 _crevice_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_2 slit_3 _slit_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_3 crack_13 _crack_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_4 fissure_4 _fissure_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_5 breach_3 _breach_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarAra_6 rift_3 _rift/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xarAra_7 gap_3 _gap_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_8 opening_3 _opening_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_9 crevasse_1 _crevasse_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_10 front_3 _front_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_11 split_35 _split_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarAra_12 schism_3 _schism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xarAra_13 cleft_2 _cleft_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(xarAra_1 crevice_2 _crevice_n_1)
+(xarAra_2 slit_3 _slit_n_1)
+(xarAra_3 crack_13 _crack_n_1)
+(xarAra_4 fissure_4 _fissure_n_1)
+(xarAra_5 breach_3 _breach_n_of)
+(xarAra_6 rift_3 _rift/NN_u_unknown)
+(xarAra_7 gap_3 _gap_n_1)
+(xarAra_8 opening_3 _opening_n_1)
+(xarAra_9 crevasse_1 _crevasse_n_1)
+(xarAra_10 front_3 _front_n_1)
+(xarAra_11 split_35 _split_n_1)
+(xarAra_12 schism_3 _schism/NN_u_unknown)
+(xarAra_13 cleft_2 _cleft_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

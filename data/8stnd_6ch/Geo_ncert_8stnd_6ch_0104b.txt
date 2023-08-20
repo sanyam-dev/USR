@@ -1,0 +1,11 @@
+#और एक देश की जनसंख्या का पता लगा सकता हूँ?
+eka_1,xeSa_1,janasaMKyA_1,pawA_1+lagA_1-0_sakawA_hE_1-0_sakawA_hE_1
+1,2,3,4
+,,,
+,,,
+2:card,3:r6,4:k1,0:main
+,,,
+,,,
+,,,
+interrogative
+

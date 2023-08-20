@@ -1,0 +1,11 @@
+#सन् 1804 में, विश्व की जनसंख्या एक अरब हो गई थी।
+san_1,1804,viSva_6,janasaMKyA_1,eka_1,araba_1,ho_1-0_gayA_WA_1-0_gayA_WA_1
+1,2,3,4,5,6,7
+,,,,,,
+,[- - -],,,,,
+2:pof__cn,7:k7t,4:r6,7:k1,6:mod,7:card,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+1804 not found in dictionary.

@@ -1,0 +1,58 @@
+#समीप के खेत में एक नलकूप है, जिसे वह अपने खेत की सचाई के लिए भाडे पर लेता है।
+samIpa_1,Kewa_1,eka_1,nalakUpa_1,hE_1,jo,vaha,apanA,Kewa_1,sacAI_1,BAdA_1,le_1,hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13
+,,,,,,,,,,,,
+,,,,,[m s a],[m s a],[m p -],,,,,
+9:r6,10:r6,4:card,13:k1,12:lwg__vaux,12:k2,12:k1,9:r6,10:r6,12:rt,12:k7,4:nmod__relc,12:lwg__vaux
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+affirmative
+(samIpa_2 proximate_5 _proximate/JJ_u_unknown)
+(samIpa_3 near_12 _near_a_to)
+(samIpa_4 close_27 _close_a_to)
+(samIpa_1 near_33 _near_p)
+(Kewa_1 field_4 _field_n_of)
+(Kewa_2 ground_2 _trader_n_1)
+(Kewa_3 land_2 _land_n_of)
+(Kewa_4 region_1 _region_n_of)
+(eka_1 1_1 card)
+(eka_3 single_1 _single_a_1)
+(eka_4 alone_3 _alone_p)
+(eka_5 sole_3 _sole_n_1)
+(nalakUpa_1 tube-well_1 _tube_n_1+_well_a_2)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)
+(jo_4 that_2 _that_q_dem)
+(apanA_1 circle_1 _circle_n_of)
+(apanA_2 adopt_2 _adopt_v_1)
+(apanA_3 personal_5 _personal_a_1)
+(apanA_4 take_5 _take_v_1)
+(apanA_5 private_5 _private_a_1)
+(apanA_6 accept_14 _accept_v_1)
+(sacAI_1 truth_4 _truth_n_1)
+(sacAI_2 truthfulness_2 _truthfulness/NN_u_unknown)
+(sacAI_3 reality_8 _reality_n_1)
+(sacAI_4 fact_3 _fact_n_1)
+(sacAI_5 integrity_4 _integrity_n_1)
+(sacAI_6 authenticity_2 _authenticity_n_1)
+(sacAI_7 honesty_3 _honesty_n_1)
+(sacAI_8 sincerity_2 _sincerity_n_1)
+(sacAI_9 faithfulness_1 _faithfulness/NNS_u_unknown)
+(le_1 take_1 _take_v_1)
+(le_2 accept_2 _accept_v_1)
+(le_3 borrow_1 _borrow_v_from)
+(le_4 buy_2 _buy_n_1)
+(le_5 hold_6 _hold_n_of)
+(le_6 receive_1 _receive_v_1)
+(le_7 rent_13 _rent_n_1)
+(le_9 demand_13 _demand_v_of)
+(le_10 capture_11 _capture_n_of)
+(le_12 conquer_3 _conquer_v_1)
+(le_13 win_8 _win_v_1)
+(le_14 engage_2 _engage_v_1)
+(le_15 cut_23 _cut_v_1)
+(le_16 trim_4 _trim_a_1)
+(le_17 eat_14 _eat_v_1)

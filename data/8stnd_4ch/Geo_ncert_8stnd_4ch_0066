@@ -1,0 +1,17 @@
+#जूट और कपास रेशेदार फ़सलें हैं।
+jUta_1,kapAsa_1,reSexAra_1,PZasaleM_1,hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+,,,,
+5:k1,5:k1,4:mod,5:k1s,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(jUta_1 jute_1 _jute/NN_u_unknown)
+(kapAsa_1 cotton_1 _cotton_n_1)
+(reSexAra_1 fibrous_3 _fibrous_a_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

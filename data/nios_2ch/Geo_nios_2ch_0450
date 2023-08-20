@@ -1,0 +1,63 @@
+#इस आवरण से मृदा की नमी का वाष्पीकरण भी कम होता है ।
+wyax,AvaraNa_1,mqxA_1,namI_1,vARpIkaraNa_1,BI_1,ho+hE-wA_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+[m s a],,,,,,
+2:dem,7:rh,4:r6,5:r6,7:k1,5:lwg__rp,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+wyax,ho+hE not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_1 cover_5 _cover_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_2 covering_3 _covering_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_3 shell_1 _shell_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_4 sheath_2 _sheath_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_5 screen_2 _screen_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_6 lid_2 _lid_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_7 envelope_2 _envelope_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_8 cladding_1 _cladding/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_9 mask_1 _mask_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_10 shield_1 _shield_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_11 curtain_2 _curtain_n_1)
+(concept_label-concept_in_Eng-MRS_concept AvaraNa_12 fence_14 _fence_n_1)
+(concept_label-concept_in_Eng-MRS_concept mqxA_1 soil_11 _soil_n_1)
+(concept_label-concept_in_Eng-MRS_concept namI_1 moisture_3 _moisture_n_1)
+(concept_label-concept_in_Eng-MRS_concept namI_2 moistness_2 _moistness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept namI_3 humidity_7 _humidity/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept vARpIkaraNa_1 vaporization_3 _vaporization_n_of)
+(concept_label-concept_in_Eng-MRS_concept BI_1 also_3 _also_a_1)
+(concept_label-concept_in_Eng-MRS_concept BI_2 too_2 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept BI_3 even_7 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(AvaraNa_1 cover_5 _cover_n_1)
+(AvaraNa_2 covering_3 _covering_n_1)
+(AvaraNa_3 shell_1 _shell_n_1)
+(AvaraNa_4 sheath_2 _sheath_n_1)
+(AvaraNa_5 screen_2 _screen_n_1)
+(AvaraNa_6 lid_2 _lid_n_1)
+(AvaraNa_7 envelope_2 _envelope_n_1)
+(AvaraNa_8 cladding_1 _cladding/NN_u_unknown)
+(AvaraNa_9 mask_1 _mask_n_1)
+(AvaraNa_10 shield_1 _shield_n_1)
+(AvaraNa_11 curtain_2 _curtain_n_1)
+(AvaraNa_12 fence_14 _fence_n_1)
+(mqxA_1 soil_11 _soil_n_1)
+(namI_1 moisture_3 _moisture_n_1)
+(namI_2 moistness_2 _moistness/NN_u_unknown)
+(namI_3 humidity_7 _humidity/NN_u_unknown)
+(vARpIkaraNa_1 vaporization_3 _vaporization_n_of)
+(BI_1 also_3 _also_a_1)
+(BI_2 too_2 _too_a_also)
+(BI_3 even_7 _even_a_1)
+(ho_1 be_2 _be_v_id)
+(ho_2 exist_7 _exist_v_1)
+(ho_3 elapse_9 _elapse_v_1)
+(ho_4 pass_16 _pass_v_1)
+(ho_5 become_1 _become_v_id)
+(ho_6 be_4 _be_v_id)

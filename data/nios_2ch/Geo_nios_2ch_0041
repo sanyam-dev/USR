@@ -1,0 +1,63 @@
+#यह परत मुख्यतः सिलीका और मैगनीशियम से बनी है ।
+wyax,parawa_1,muKyawaH_1,silIkA,mEganISiyama_1,bana_1-nA_hE_1-nA_hE_1
+1,2,3,4,5,6
+,,,,,
+[m s a],,,[- - -],,
+2:dem,6:k1,4:mod,6:k1,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+wyax,mEganISiyama_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_3 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_2 fold_3 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_4 lagging_1 _lag_v_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_5 film_4 _film_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_6 lamination_1 _lamination_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_8 stratum_3 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_9 metal_5 _metal_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_12 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept muKyawaH_1 broadly_2 _broad_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKyawaH_2 mainly_5 _mainly_x_deg)
+(concept_label-concept_in_Eng-MRS_concept silIkA_1 silica_1 _silica/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bana_1 forest_3 _forest_n_of)
+(concept_label-concept_in_Eng-MRS_concept bana_2 wood_4 _wood_n_1)
+(concept_label-concept_in_Eng-MRS_concept bana_3 bun_1 _bun/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bana_4 jungle_1 _jungle_n_1)
+(concept_label-concept_in_Eng-MRS_concept bana_5 grove_3 _grove_n_1)
+(concept_label-concept_in_Eng-MRS_concept bana_6 thicket_4 _thicket_n_1)
+(concept_label-concept_in_Eng-MRS_concept bana_7 reaping_10 _ape_v_1)
+(concept_label-concept_in_Eng-MRS_concept bana_10 band_6 _band_n_1)
+(concept_label-concept_in_Eng-MRS_concept bana_11 fit_9 _fit_v_1)
+(concept_label-concept_in_Eng-MRS_concept bana_12 improve_3 _improve_v_1)
+(concept_label-concept_in_Eng-MRS_concept bana_13 happen_7 _happen_v_1)
+(concept_label-concept_in_Eng-MRS_concept bana_1-KaMdI_1 forestdweller_1 _forestdweller/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bana_2 forest_4 _forest_n_of)
+(concept_label-concept_in_Eng-MRS_concept bana_3-bAsI_1 forestdwelling_1 _forestdwelling/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bana_4-bAsI_2 forester_3 _forester/JJ_u_unknown)
+(parawa_1 layer_3 _layer_n_of)
+(parawa_2 fold_3 _fold_n_1)
+(parawa_4 lagging_1 _lag_v_1)
+(parawa_5 film_4 _film_n_1)
+(parawa_6 lamination_1 _lamination_n_1)
+(parawa_8 stratum_3 _stratum_n_1)
+(parawa_9 metal_5 _metal_n_1)
+(parawa_1 layer_12 _layer_n_of)
+(muKyawaH_1 broadly_2 _broad_a_1)
+(muKyawaH_2 mainly_5 _mainly_x_deg)
+(silIkA_1 silica_1 _silica/NN_u_unknown)
+(bana_1 forest_3 _forest_n_of)
+(bana_2 wood_4 _wood_n_1)
+(bana_3 bun_1 _bun/NN_u_unknown)
+(bana_4 jungle_1 _jungle_n_1)
+(bana_5 grove_3 _grove_n_1)
+(bana_6 thicket_4 _thicket_n_1)
+(bana_7 reaping_10 _ape_v_1)
+(bana_10 band_6 _band_n_1)
+(bana_11 fit_9 _fit_v_1)
+(bana_12 improve_3 _improve_v_1)
+(bana_13 happen_7 _happen_v_1)
+(bana_1-KaMdI_1 forestdweller_1 _forestdweller/NN_u_unknown)
+(bana_2 forest_4 _forest_n_of)
+(bana_3-bAsI_1 forestdwelling_1 _forestdwelling/VBG_u_unknown)
+(bana_4-bAsI_2 forester_3 _forester/JJ_u_unknown)

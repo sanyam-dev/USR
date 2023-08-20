@@ -1,0 +1,11 @@
+#यमुना नदी हिमालय के यमुनोत्री हिमानी से निकलती है ।
+yamunA,naxI_1,himAlaya,yamunowrI_1,himAnI_1,nikala_1-wA_hE_1-wA_hE_1
+1,2,3,4,5,6
+loc,,loc,loc,,
+[f s -],,[m s -],,[- - -],
+2:nmod__adj,6:k1,5:r6,5:pof__cn,6:k5,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+yamunA,himAlaya,yamunowrI_1 not found in dictionary.

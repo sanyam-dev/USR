@@ -1,0 +1,41 @@
+#वह शैल जिसमें परतें होती हैं ।
+wyax,jo,parawa_8,ho+hE-wA_hE_1
+1,2,3,4
+,,,
+[m s a],[m s a],[f p -],
+4:k1,4:k1,4:k7,0:main
+,,,
+,,,
+,,,
+affirmative
+wyax,ho+hE not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept jo_4 that_2 _that_q_dem)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_3 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_2 fold_3 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_4 lagging_1 _lag_v_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_5 film_4 _film_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_6 lamination_1 _lamination_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_8 stratum_3 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_9 metal_5 _metal_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_12 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(jo_4 that_2 _that_q_dem)
+(parawa_1 layer_3 _layer_n_of)
+(parawa_2 fold_3 _fold_n_1)
+(parawa_4 lagging_1 _lag_v_1)
+(parawa_5 film_4 _film_n_1)
+(parawa_6 lamination_1 _lamination_n_1)
+(parawa_8 stratum_3 _stratum_n_1)
+(parawa_9 metal_5 _metal_n_1)
+(parawa_1 layer_12 _layer_n_of)
+(ho_1 be_2 _be_v_id)
+(ho_2 exist_7 _exist_v_1)
+(ho_3 elapse_9 _elapse_v_1)
+(ho_4 pass_16 _pass_v_1)
+(ho_5 become_1 _become_v_id)
+(ho_6 be_4 _be_v_id)

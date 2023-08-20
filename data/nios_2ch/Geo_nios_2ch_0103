@@ -1,0 +1,49 @@
+#इन 6 खनिजों के नाम - फेल्सपार, क्वार्ट्ज, पाइराक्सीन, एम्फीबोल, अभ्रक और ओलीबीन हैं ।
+wyax,6_1,KanijoM_1,nAma_1,PelsapAra_1,kvArtja_1,pAirAksIna,emPIbola_1,aBraka_1,olIbIna_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,,loc,,,,,,,,
+[m p a],,,,[- - -],,[- - -],,,,
+3:dem,3:card,4:r6,5:mod,11:k1,7:pof__cn,9:nmod__adj,9:pof__cn,11:k1s,11:k1s,0:main
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+wyax,6_1,KanijoM_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept nAma_1 name_3 _name_n_of)
+(concept_label-concept_in_Eng-MRS_concept nAma_2 title_4 _title_n_of)
+(concept_label-concept_in_Eng-MRS_concept nAma_3 appellation_1 _appellation_n_1)
+(concept_label-concept_in_Eng-MRS_concept nAma_4 renown_3 _renown/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nAma_5 fame_3 _fame_n_1)
+(concept_label-concept_in_Eng-MRS_concept nAma_6 term_2 _term_n_of)
+(concept_label-concept_in_Eng-MRS_concept nAma_7 reputation_6 _reputation_n_1)
+(concept_label-concept_in_Eng-MRS_concept nAma_8 prestige_17 _prestige_n_1)
+(concept_label-concept_in_Eng-MRS_concept nAma_9 celebrity_9 _celebrity/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept PelsapAra_1 feldspar_1 _feldspar/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kvArtja_1 quartz_15 _quartz/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept pAirAksIna_1 pyroxene_1 _pyroxene/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept emPIbola_1 amphibole_1 _amphibole/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept aBraka_1 mica_2 _mica_n_1)
+(concept_label-concept_in_Eng-MRS_concept olIbIna_1 olivine_1 _olivine/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(nAma_1 name_3 _name_n_of)
+(nAma_2 title_4 _title_n_of)
+(nAma_3 appellation_1 _appellation_n_1)
+(nAma_4 renown_3 _renown/NN_u_unknown)
+(nAma_5 fame_3 _fame_n_1)
+(nAma_6 term_2 _term_n_of)
+(nAma_7 reputation_6 _reputation_n_1)
+(nAma_8 prestige_17 _prestige_n_1)
+(nAma_9 celebrity_9 _celebrity/NN_u_unknown)
+(PelsapAra_1 feldspar_1 _feldspar/NN_u_unknown)
+(kvArtja_1 quartz_15 _quartz/NN_u_unknown)
+(pAirAksIna_1 pyroxene_1 _pyroxene/NN_u_unknown)
+(emPIbola_1 amphibole_1 _amphibole/NN_u_unknown)
+(aBraka_1 mica_2 _mica_n_1)
+(olIbIna_1 olivine_1 _olivine/NN_u_unknown)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

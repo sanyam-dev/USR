@@ -1,0 +1,11 @@
+#नर्मदा नदी के उत्तर में प्रायद्रीपीय पठार का वह भाग जो कि मालवा के पठार के अधिकतर भागों पर फैला है उसे मध्य उच्चभूमि के नाम से जाना जाता है ।
+narmaxA,naxI_1,uwwara_3,prAyaxrIpIya_1+paTAra_1,vaha,BAga_2,jo,ki_1,mAlavA,aXikawara_1,BAga_2,PElA_1,hE_1,vaha,maXya_7,uccaBUmi_1,nAma_1,jA_1-wA_hE_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+loc,,,,,,,,loc,,,,,,,loc,,
+[f s -],,,,[m s a],,[m s a],,[f s -],,,,,[m s a],,[- - -],,
+2:nmod__adj,3:r6,18:k7p,11:r6,18:k2,12:k7p,12:sent-adv,7:lwg__rp,4:r6,11:mod,12:k7p,14:nmod__relc,18:lwg__vaux_cont,18:k2,16:pof__cn,17:r6,18:k5,18:lwg__vaux
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+affirmative
+narmaxA,prAyaxrIpIya_1,mAlavA not found in dictionary.

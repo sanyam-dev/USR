@@ -1,0 +1,45 @@
+#इस तालिका का ध्यान से अध्ययन करिए ।
+wyax,wAlikA_1,XyAna_1,aXyayana+karie-ie_1
+1,2,3,4
+,,,
+[m s a],,,
+2:dem,3:r6,4:krvn,0:main
+,,,
+,,,
+,,,
+affirmative
+wyax,aXyayana+karie not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept wAlikA_1 list_1 _list_n_of)
+(concept_label-concept_in_Eng-MRS_concept wAlikA_2 key_3 _key_n_1)
+(concept_label-concept_in_Eng-MRS_concept wAlikA_3 table_1 _table_n_1)
+(concept_label-concept_in_Eng-MRS_concept wAlikA_4 schedule_3 _schedule_n_1)
+(concept_label-concept_in_Eng-MRS_concept wAlikA_5 inventory_3 _inventory_n_1)
+(concept_label-concept_in_Eng-MRS_concept XyAna_1 attention_3 _attention_n_to)
+(concept_label-concept_in_Eng-MRS_concept XyAna_2 heed_2 _heed_n_1)
+(concept_label-concept_in_Eng-MRS_concept XyAna_3 meditation_1 _meditation/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept XyAna_4 contemplation_3 _contemplation/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept XyAna_5 consideration_7 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept XyAna_6 reflection_9 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept XyAna_7 mind_10 _mind_n_1)
+(concept_label-concept_in_Eng-MRS_concept XyAna_8 thought_5 _thought_n_of)
+(concept_label-concept_in_Eng-MRS_concept XyAna_9 memory_5 _memory_n_of)
+(concept_label-concept_in_Eng-MRS_concept XyAna_10 regard_21 _regard_n_1)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_1 study_1 _study_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_2 reading_5 _reading_n_of)
+(wAlikA_1 list_1 _list_n_of)
+(wAlikA_2 key_3 _key_n_1)
+(wAlikA_3 table_1 _table_n_1)
+(wAlikA_4 schedule_3 _schedule_n_1)
+(wAlikA_5 inventory_3 _inventory_n_1)
+(XyAna_1 attention_3 _attention_n_to)
+(XyAna_2 heed_2 _heed_n_1)
+(XyAna_3 meditation_1 _meditation/NN_u_unknown)
+(XyAna_4 contemplation_3 _contemplation/NN_u_unknown)
+(XyAna_5 consideration_7 _consideration_n_of)
+(XyAna_6 reflection_9 _reflection_n_1)
+(XyAna_7 mind_10 _mind_n_1)
+(XyAna_8 thought_5 _thought_n_of)
+(XyAna_9 memory_5 _memory_n_of)
+(XyAna_10 regard_21 _regard_n_1)
+(aXyayana_1 study_1 _study_n_of)
+(aXyayana_2 reading_5 _reading_n_of)

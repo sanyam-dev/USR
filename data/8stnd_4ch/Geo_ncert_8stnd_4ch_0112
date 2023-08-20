@@ -1,0 +1,37 @@
+#उसका आवास मुख्य गाँव में है।
+usakA,AvAsa_1,muKya_1,gAzva_1,hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+[f s a],,,,
+2:r6,5:k1,4:mod,5:k7p,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(AvAsa_1 residence_1 _residence_n_1)
+(AvAsa_2 habitation_1 _habitation_n_1)
+(AvAsa_3 housing_1 _housing_n_1)
+(AvAsa_4 abode_10 _abode_n_1)
+(AvAsa_5 dwelling_11 _dwelling_n_1)
+(AvAsa_6 domicile_1 _domicile/NN_u_unknown)
+(AvAsa_7 home_9 _home_p)
+(AvAsa_8 quarters_3 _quarter_n_of)
+(muKya_1 principal_3 _principal_a_1)
+(muKya_2 chief_10 _chief_n_1)
+(muKya_4 salient_1 _salient_a_1)
+(muKya_6 leading_4 _lead_v_1)
+(muKya_7 capital_2 _capital_a_1)
+(muKya_8 cardinal_1 _cardinal_a_1)
+(muKya_9 high_15 _high_a_1)
+(muKya_10 supreme_6 _supreme_a_1)
+(muKya_11 primary_4 _primary_a_1)
+(muKya_12 original_5 _original_a_1)
+(muKya_13 head_7 _head_n_of)
+(muKya_15 major_6 _major_n_1)
+(muKya_17 foremost_5 _foremost_a_1)
+(muKya_1 main_1 _main_a_1)
+(gAzva_1 village_1 _village_n_of)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

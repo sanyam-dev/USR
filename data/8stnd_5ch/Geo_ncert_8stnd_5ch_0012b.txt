@@ -1,0 +1,11 @@
+#तथा पर्यटन सेवा देने से संबंधित उद्योग है।
+paryatana_2+sevA_1,xe_1,saMbaMXiwa_1,uxyoga_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+,,,,
+2:k2,5:rh,4:mod,5:k1,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+

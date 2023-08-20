@@ -1,0 +1,51 @@
+#ये दोनों प्रक्रिया ही शैलों की टूट फूट ।
+wyax,xonA_1,prakriyA_1,hI_1,SEloM_1,tUta_1
+1,2,3,4,5,6
+,,,,,
+[m p a],,,,,
+3:dem,3:card,6:k1,3:lwg__rp,6:k2,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+wyax,SEloM_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept xonA_1 leafbasket_1 _leafbasket/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xonA_2 leafcup_1 _leafcup/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_1 process_3 _process_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_2 procedure_2 _procedure_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_3 technique_4 _technique_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_4 method_10 _method_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_5 manner_21 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_6 rite_2 _rite_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakriyA_7 observance_3 _observance_n_of)
+(concept_label-concept_in_Eng-MRS_concept hI_1 only_6 _only_a_1)
+(concept_label-concept_in_Eng-MRS_concept hI_2 heart_27 _heart_n_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_1 break_1 _break_n_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_2 break_5 _break_v_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_3 breach_2 _breach_n_of)
+(concept_label-concept_in_Eng-MRS_concept tUta_4 loss_8 _loss_n_of)
+(concept_label-concept_in_Eng-MRS_concept tUta_5 error_5 _error_n_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_6 burst_5 _burst_v_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_7 happen_5 _happen_v_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_8 attack_11 _attack_v_1)
+(concept_label-concept_in_Eng-MRS_concept tUta_9 pine_8 _pine_n_1)
+(xonA_1 leafbasket_1 _leafbasket/NN_u_unknown)
+(xonA_2 leafcup_1 _leafcup/NN_u_unknown)
+(prakriyA_1 process_3 _process_n_of)
+(prakriyA_2 procedure_2 _procedure_n_1)
+(prakriyA_3 technique_4 _technique_n_1)
+(prakriyA_4 method_10 _method_n_of)
+(prakriyA_5 manner_21 _manner_n_of)
+(prakriyA_6 rite_2 _rite_n_1)
+(prakriyA_7 observance_3 _observance_n_of)
+(hI_1 only_6 _only_a_1)
+(hI_2 heart_27 _heart_n_1)
+(tUta_1 break_1 _break_n_1)
+(tUta_2 break_5 _break_v_1)
+(tUta_3 breach_2 _breach_n_of)
+(tUta_4 loss_8 _loss_n_of)
+(tUta_5 error_5 _error_n_1)
+(tUta_6 burst_5 _burst_v_1)
+(tUta_7 happen_5 _happen_v_1)
+(tUta_8 attack_11 _attack_v_1)
+(tUta_9 pine_8 _pine_n_1)

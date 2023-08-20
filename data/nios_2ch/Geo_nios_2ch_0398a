@@ -1,0 +1,39 @@
+#निक्षेपण तब शुरू होता है ।
+nikRepaNa_1,waba,SurU+ho_2-wA_hE_1
+1,2,3
+,,
+,[- - -],
+3:k1,3:k7t,0:main
+,,
+,,
+,,
+affirmative
+
+(concept_label-concept_in_Eng-MRS_concept nikRepaNa_1 abandoning_6 _abandon_v_1)
+(concept_label-concept_in_Eng-MRS_concept nikRepaNa_3 placing_4 _placing_n_1)
+(concept_label-concept_in_Eng-MRS_concept nikRepaNa_4 depositing_1 _deposit_v_1)
+(concept_label-concept_in_Eng-MRS_concept SurU+ho_1 begin_12 _begin_v_1)
+(concept_label-concept_in_Eng-MRS_concept SurU+ho_2 start_10 _start_v_1)
+(concept_label-concept_in_Eng-MRS_concept SurU_1 beginning_11 _beginning_n_1)
+(concept_label-concept_in_Eng-MRS_concept SurU_2 commencement_8 _commencement_n_of)
+(concept_label-concept_in_Eng-MRS_concept SurU_3 start_15 _start_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(nikRepaNa_1 abandoning_6 _abandon_v_1)
+(nikRepaNa_3 placing_4 _placing_n_1)
+(nikRepaNa_4 depositing_1 _deposit_v_1)
+(SurU+ho_1 begin_12 _begin_v_1)
+(SurU+ho_2 start_10 _start_v_1)
+(SurU_1 beginning_11 _beginning_n_1)
+(SurU_2 commencement_8 _commencement_n_of)
+(SurU_3 start_15 _start_n_1)
+(ho_1 be_2 _be_v_id)
+(ho_2 exist_7 _exist_v_1)
+(ho_3 elapse_9 _elapse_v_1)
+(ho_4 pass_16 _pass_v_1)
+(ho_5 become_1 _become_v_id)
+(ho_6 be_4 _be_v_id)

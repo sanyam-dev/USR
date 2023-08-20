@@ -1,0 +1,11 @@
+#जब किसी क्षेत्र का जनघनत्व इतना बढ जाता है कि लोग ऊँची इमारतों में रहते हैं।
+jaba,kisI,kRewra_5,janaGanawva_1,iwanA_1,baDa_1-wA_hE_1-wA_hE_1,loga_2,UzcA_1,imArawa_1,raha_1,hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,
+[- - -],[- - -],,,,,,,,,
+6:k7t,3:mod,4:r6,6:k1,6:krvn,0:main,10:k1,9:mod,10:k7p,6:vk2,10:lwg__vaux
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+jaba,kisI,janaGanawva_1 not found in dictionary.

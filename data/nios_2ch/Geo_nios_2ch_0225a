@@ -1,0 +1,29 @@
+#द्रवित मैग्मा अथवा लावा शैलों के संपर्क में आता है ।
+xraviwa_1,mEgmA_1,SEloM_1+kA_1,meM_1,hE_1-wA_hE_1-wA_hE_1
+1,2,3,4,5
+per,,,,
+,,,,
+2:mod,4:r6,4:r6,5:k7,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+SEloM_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept mEgmA_1 magma_1 _magma/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kA_1 collar_1 _collar_n_1)
+(concept_label-concept_in_Eng-MRS_concept kA_2 obl_1 _obl/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept meM_1 bleating_1 _bleating/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept meM_3 bleat_5 _bleat/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(mEgmA_1 magma_1 _magma/NN_u_unknown)
+(kA_1 collar_1 _collar_n_1)
+(kA_2 obl_1 _obl/JJ_u_unknown)
+(meM_1 bleating_1 _bleating/VBG_u_unknown)
+(meM_3 bleat_5 _bleat/NN_u_unknown)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

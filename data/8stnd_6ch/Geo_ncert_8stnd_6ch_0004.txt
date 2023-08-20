@@ -1,0 +1,11 @@
+#इस प्रकार मानव संसाधन ही अंतिम संसाधन है।
+yaha,prakAra_1,mAnava_3+saMsAXana_2,hI_1,aMwima_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+[m s a],,,,,
+2:dem,6:sent-adv,6:k1s,3:lwg__rp,3:mod,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+

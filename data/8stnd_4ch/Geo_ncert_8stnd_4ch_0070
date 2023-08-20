@@ -1,0 +1,53 @@
+#चावल के लिए उच्च तापमान, अधिक आर्द्रता एवं वर्षा की आवश्यकता होती है।
+cAvala_1,ucca_1,wApamAna_1,aXika_1,ArxrawA_1,varRA_1,AvaSyakawA_1+ho_1-wA_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+,,,,,,
+7:rt,3:mod,7:k1,5:quant,7:r6,7:r6,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(cAvala_1 rice_1 _rice_n_1)
+(cAvala_2 grain_4 _grain_n_1)
+(ucca_1 high_1 _high_a_1)
+(ucca_2 tall_1 _tall_a_1)
+(ucca_3 lofty_1 _lofty_a_1)
+(ucca_4 elevated_1 _elevate_v_cause-to)
+(ucca_5 loud_6 _loud_a_1)
+(ucca_6 higher_3 _high_a_1)
+(ucca_8 upper_1 _upper_a_1)
+(ucca_9 superior_2 _superior_a_1)
+(wApamAna_1 temperature_2 _temperature_n_of)
+(aXika_1 more_1 much-many_a)
+(aXika_2 much_2 much-many_a)
+(aXika_3 many_1 much-many_a)
+(aXika_4 plenty_2 _plenty_n_of)
+(aXika_6 abundant_2 _abundant_a_1)
+(aXika_7 excessive_3 _deceitful/JJ_u_unknown)
+(aXika_8 additional_1 _additional_a_1)
+(aXika_9 remaining_18 _remain_v_1)
+(ArxrawA_1 dampness_4 _dampness_n_1)
+(ArxrawA_2 wetness_1 _wetness_n_1)
+(ArxrawA_3 humidity_2 _humidity/NN_u_unknown)
+(ArxrawA_4 moisture_1 _moisture_n_1)
+(varRA_1 rain_6 _rain_n_1)
+(varRA_2 rainfall_2 _rainfall_n_1)
+(varRA_3 shelling_4 _shell_v_1)
+(varRA_4 bombing_3 _bombing_n_1)
+(varRA_5 firing_1 _fire_v_1)
+(varRA_8 hail_7 _hail_n_1)
+(varRA_9 shower_6 _shower_n_of)
+(AvaSyakawA_1 necessity_1 _necessity_n_1)
+(AvaSyakawA_2 need_1 _need_n_of)
+(AvaSyakawA_3 requirement_1 _requirement_n_1)
+(AvaSyakawA_4 urgency_1 _urgency_n_1)
+(AvaSyakawA_5 goal_33 _goal_n_1)
+(AvaSyakawA_6 end_51 _end_n_of)
+(AvaSyakawA_2+AXAriwa_1 need_1+based_1 _need_n_of+_base_v_1)
+(ho_1 be_2 _be_v_id)
+(ho_2 exist_7 _exist_v_1)
+(ho_3 elapse_9 _elapse_v_1)
+(ho_4 pass_16 _pass_v_1)
+(ho_5 become_1 _become_v_id)
+(ho_6 be_4 _be_v_id)

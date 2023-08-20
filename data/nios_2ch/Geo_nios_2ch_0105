@@ -1,0 +1,33 @@
+#इसके निर्माणकारी खनिज क्वार्टज, फेल्सपार और अभ्रक हैं ।
+wyax,nirmANakArI_1,Kanija_2,kvArtaja_1+PelsapAra_1,aBraka_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+[m s a],,,,,
+4:r6,4:mod,4:pof__cn,6:k1,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+wyax,kvArtaja_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept nirmANakArI_1 constructive_1 _constructive_a_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 minerals_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_1 mineral_1 _mineral_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kanija_2 plateau_3 _plateau_n_1)
+(concept_label-concept_in_Eng-MRS_concept PelsapAra_1 feldspar_1 _feldspar/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept aBraka_1 mica_2 _mica_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(nirmANakArI_1 constructive_1 _constructive_a_1)
+(Kanija_2 minerals_1 _mineral_n_1)
+(Kanija_2 mineral_1 _mineral_n_1)
+(Kanija_1 mineral_1 _mineral_n_1)
+(Kanija_2 plateau_3 _plateau_n_1)
+(PelsapAra_1 feldspar_1 _feldspar/NN_u_unknown)
+(aBraka_1 mica_2 _mica_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

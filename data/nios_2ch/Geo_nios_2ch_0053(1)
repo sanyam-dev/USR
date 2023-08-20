@@ -1,0 +1,61 @@
+#क्रोड और स्थलमण्डल के बीच की परत मैंटल है ।
+kroda_1,sWalamaNdala_1,bIca_1,parawa_1,mEMtala_2,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+,,,,,
+4:r6,4:r6,2:lwg__psp,6:k1,6:k1s,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+
+(concept_label-concept_in_Eng-MRS_concept kroda_1 embrace_13 _embrace_n_1)
+(concept_label-concept_in_Eng-MRS_concept sWalamaNdala_1 lithosphere_3 _lithosphere/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bIca_1 centre_1 _center_n_of)
+(concept_label-concept_in_Eng-MRS_concept bIca_2 middle_12 _middle_n_of)
+(concept_label-concept_in_Eng-MRS_concept bIca_3 distinction_13 _distinction_n_1)
+(concept_label-concept_in_Eng-MRS_concept bIca_4 difference_5 _difference_n_1)
+(concept_label-concept_in_Eng-MRS_concept bIca_5 separation_15 _separation_n_1)
+(concept_label-concept_in_Eng-MRS_concept bIca_6 average_2 _average_n_of)
+(concept_label-concept_in_Eng-MRS_concept bIca_7 mean_5 _mean_n_1)
+(concept_label-concept_in_Eng-MRS_concept bIca_8 mediation_3 _mediation/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept bIca_9 distance_13 _distance_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_3 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_2 fold_3 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_4 lagging_1 _lag_v_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_5 film_4 _film_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_6 lamination_1 _lamination_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_8 stratum_3 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_9 metal_5 _metal_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_12 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept mEMtala_2 mantle_3 _mantle_n_1)
+(concept_label-concept_in_Eng-MRS_concept mEMtala_1 mantle_1 _mantle_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(kroda_1 embrace_13 _embrace_n_1)
+(sWalamaNdala_1 lithosphere_3 _lithosphere/NN_u_unknown)
+(bIca_1 centre_1 _center_n_of)
+(bIca_2 middle_12 _middle_n_of)
+(bIca_3 distinction_13 _distinction_n_1)
+(bIca_4 difference_5 _difference_n_1)
+(bIca_5 separation_15 _separation_n_1)
+(bIca_6 average_2 _average_n_of)
+(bIca_7 mean_5 _mean_n_1)
+(bIca_8 mediation_3 _mediation/NN_u_unknown)
+(bIca_9 distance_13 _distance_n_1)
+(parawa_1 layer_3 _layer_n_of)
+(parawa_2 fold_3 _fold_n_1)
+(parawa_4 lagging_1 _lag_v_1)
+(parawa_5 film_4 _film_n_1)
+(parawa_6 lamination_1 _lamination_n_1)
+(parawa_8 stratum_3 _stratum_n_1)
+(parawa_9 metal_5 _metal_n_1)
+(parawa_1 layer_12 _layer_n_of)
+(mEMtala_2 mantle_3 _mantle_n_1)
+(mEMtala_1 mantle_1 _mantle_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

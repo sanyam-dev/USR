@@ -1,0 +1,53 @@
+#इसके विपरीत रातें बहुत ठंडी होती हैं ।
+wyax,rAwa_1,bahuwa_7,TaMdA+ho-wA_hE_1
+1,2,3,4
+,,,
+[m s a],,,
+4:rh,4:k1,4:quant,0:main
+,,,
+,,,
+,,,
+affirmative
+wyax,TaMdA+ho not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept rAwa_1 night_7 _night_n_of)
+(concept_label-concept_in_Eng-MRS_concept rAwa_1 dye_17 _dye_n_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_1 much_6 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_2 many_5 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_3 abundant_7 _abundant_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_4 plenteous_1 _plenteous_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_5 plentiful_3 _plentiful_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_6 too_1 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_7 very_1 _very_x_deg)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_1 cool_2 _cool_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_2 cold_4 _cold_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_3 bleak_1 _bleak_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_4 dull_1 _dull_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_5 insipid_2 _insipid_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_6 lifeless_1 _lifeless_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_7 unresponsive_1 _unresponsive/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_8 unfeeling_1 _feel_v_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_9 serious_12 _serious_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_10 sober_9 _sober_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_11 tranquil_21 _tranquil_a_1)
+(concept_label-concept_in_Eng-MRS_concept TaMdA_12 calm_44 _calm_a_1)
+(rAwa_1 night_7 _night_n_of)
+(rAwa_1 dye_17 _dye_n_1)
+(bahuwa_1 much_6 much-many_a)
+(bahuwa_2 many_5 much-many_a)
+(bahuwa_3 abundant_7 _abundant_a_1)
+(bahuwa_4 plenteous_1 _plenteous_a_1)
+(bahuwa_5 plentiful_3 _plentiful_a_1)
+(bahuwa_6 too_1 _too_a_also)
+(bahuwa_7 very_1 _very_x_deg)
+(TaMdA_1 cool_2 _cool_a_1)
+(TaMdA_2 cold_4 _cold_a_1)
+(TaMdA_3 bleak_1 _bleak_a_1)
+(TaMdA_4 dull_1 _dull_a_1)
+(TaMdA_5 insipid_2 _insipid_a_1)
+(TaMdA_6 lifeless_1 _lifeless_a_1)
+(TaMdA_7 unresponsive_1 _unresponsive/JJ_u_unknown)
+(TaMdA_8 unfeeling_1 _feel_v_1)
+(TaMdA_9 serious_12 _serious_a_1)
+(TaMdA_10 sober_9 _sober_a_1)
+(TaMdA_11 tranquil_21 _tranquil_a_1)
+(TaMdA_12 calm_44 _calm_a_1)

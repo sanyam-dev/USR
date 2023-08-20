@@ -1,0 +1,11 @@
+#सूडान देश एक ऐसा उदाहरण है जिसमें लोगों के बाहर चले जाने।
+sUdAna,xeSa_1,eka_1,EsA,uxAharaNa_1,hE_2-0_hE_1,jo_4,loga_1,bAhara_1,cala_1,jA_1
+1,2,3,4,5,6,7,8,9,10,11
+loc,,,,,,,,,,
+[- - -],,,[m s -],,,[m s a],,,,
+2:nmod__adj,6:k1,5:card,5:dem,6:k1s,0:main,10:k7,10:k7,8:lwg__psp,6:nmod__relc,10:lwg__vaux
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+sUdAna not found in dictionary.

@@ -1,0 +1,51 @@
+#तो शैलों के जोड कार्बोनिक अम्ल की क्रिया से चैडे हो जाते हैं ।
+SEloM_1,joda_1,kArbonika_1,amla_1,kriyA_1,cEde_1,ho_4-wA_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+,,,,,,
+2:r6,7:k1,4:mod,5:r6,7:k3,7:k1,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+SEloM_1,cEde_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept joda_1 total_11 _total_n_of)
+(concept_label-concept_in_Eng-MRS_concept kArbonika_1 carbonic_1 _carbonic_a_1)
+(concept_label-concept_in_Eng-MRS_concept amla_1 acid_1 _acid_n_1)
+(concept_label-concept_in_Eng-MRS_concept amla_2 sour_3 _sour_a_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_1 action_6 _action_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_2 act_3 _act_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_3 function_5 _function_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_4 verb_1 _verb_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_5 duty_2 _duty_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_6 oath_1 _oath_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_7 work_6 _work_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_8 labour_2 _labor_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_9 process_5 _process_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_10 procedure_10 _procedure_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(joda_1 total_11 _total_n_of)
+(kArbonika_1 carbonic_1 _carbonic_a_1)
+(amla_1 acid_1 _acid_n_1)
+(amla_2 sour_3 _sour_a_1)
+(kriyA_1 action_6 _action_n_1)
+(kriyA_2 act_3 _act_n_of)
+(kriyA_3 function_5 _function_n_1)
+(kriyA_4 verb_1 _verb_n_1)
+(kriyA_5 duty_2 _duty_n_1)
+(kriyA_6 oath_1 _oath_n_of)
+(kriyA_7 work_6 _work_n_1)
+(kriyA_8 labour_2 _labor_n_1)
+(kriyA_9 process_5 _process_n_of)
+(kriyA_10 procedure_10 _procedure_n_1)
+(ho_1 be_2 _be_v_id)
+(ho_2 exist_7 _exist_v_1)
+(ho_3 elapse_9 _elapse_v_1)
+(ho_4 pass_16 _pass_v_1)
+(ho_5 become_1 _become_v_id)
+(ho_6 be_4 _be_v_id)

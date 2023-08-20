@@ -1,0 +1,41 @@
+#शैल और खनिजों का आर्थिक महत्व क्या है ? ।
+SEla_1,KanijoM_1,ArWika_1,mahawva_1,kyA_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+[m s -],,,,,
+4:r6,4:r6,4:mod,6:k1,6:k1s,0:main
+,,,,,
+,,,,,
+,,,,,
+interrogative
+KanijoM_1,kyA_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept SEla_1 rock_5 _rock_n_1)
+(concept_label-concept_in_Eng-MRS_concept SEla_2 hill_6 _hill_n_1)
+(concept_label-concept_in_Eng-MRS_concept SEla_3 mountain_9 _mountain_n_1)
+(concept_label-concept_in_Eng-MRS_concept SEla_4 stony_3 _stony_a_1)
+(concept_label-concept_in_Eng-MRS_concept SEla_5 rocky_2 _rocky_a_1)
+(concept_label-concept_in_Eng-MRS_concept SEla_6 mountainous_2 _mountainous_a_1)
+(concept_label-concept_in_Eng-MRS_concept ArWika_1 economic_1 _economic_a_1)
+(concept_label-concept_in_Eng-MRS_concept ArWika_2 monetary_1 _monetary_a_1)
+(concept_label-concept_in_Eng-MRS_concept ArWika_3 financial_3 _financial_a_1)
+(concept_label-concept_in_Eng-MRS_concept mahawva_1 importance_8 _importance_n_1)
+(concept_label-concept_in_Eng-MRS_concept mahawva_2 greatness_10 _greatness_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(SEla_1 rock_5 _rock_n_1)
+(SEla_2 hill_6 _hill_n_1)
+(SEla_3 mountain_9 _mountain_n_1)
+(SEla_4 stony_3 _stony_a_1)
+(SEla_5 rocky_2 _rocky_a_1)
+(SEla_6 mountainous_2 _mountainous_a_1)
+(ArWika_1 economic_1 _economic_a_1)
+(ArWika_2 monetary_1 _monetary_a_1)
+(ArWika_3 financial_3 _financial_a_1)
+(mahawva_1 importance_8 _importance_n_1)
+(mahawva_2 greatness_10 _greatness_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

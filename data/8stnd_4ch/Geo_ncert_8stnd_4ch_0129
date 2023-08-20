@@ -1,0 +1,27 @@
+#किसान सामान्यतः फार्म में रहता है।
+kisAna_1,sAmAnyawaH_1,PArma_1,raha_1-wA_hE_1
+1,2,3,4
+,,,
+,,,
+4:k1,4:krvn,4:k7,0:main
+,,,
+,,,
+,,,
+affirmative
+(kisAna_1 farmer_1 _farmer_n_1)
+(kisAna_2 peasant_1 _peasant_n_1)
+(sAmAnyawaH_1 generally_6 _general_a_1)
+(sAmAnyawaH_2 usually_6 _usual_a_1)
+(sAmAnyawaH_3 normally_1 _normal_a_1)
+(sAmAnyawaH_4 broadly_2 _broadly,the/JJ_u_unknown)
+(sAmAnyawaH_5 common_9 _common_a_for)
+(PArma_1 farmstead_1 _farmstead_n_1)
+(PArma_2 form_59 _form_n_of)
+(raha_1 live_3 _live_v_1)
+(raha_2 stay_8 _stay_n_1)
+(raha_4 remain_1 _remain_v_1)
+(raha_5 continue_1 _continue_v_1)
+(raha_8 stay_13 _stay_v_1)
+(raha_9 guide_13 _guide_n_1)
+(raha_6 last_8 _last_v_1)
+(raha_7 endure_11 _endure_v_1)

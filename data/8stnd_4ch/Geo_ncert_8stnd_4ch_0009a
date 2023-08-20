@@ -1,0 +1,26 @@
+#इस्पात विनिर्माण, डबलरोटी पकाना।
+ispAwa_1+vinirmANa_1,dabalarotI_1,pakA_1-yA_1
+1,2,3
+,,
+,,
+3:k1,3:k1s,0:main
+,,
+,,
+,,
+affirmative
+(ispAwa_1 steel_5 _steel_n_1)
+(vinirmANa_1 manufacture_2 _manufacture_n_of)
+(vinirmANa_2 manufacturing_1 _manufacture_v_1)
+(vinirmANa_4 creation_10 _creation_n_of)
+(dabalarotI_1 bread_4 _bread_n_1)
+(pakA_1 ripen_2 _ripen_v_1)
+(pakA_2 cook_1 _cook_n_1)
+(pakA_4 season_3 season)
+(pakA_5 cure_4 _cure_n_1)
+(pakA_6 cook_7 _cook_v_1)
+(pakA_7 ripen_4 _ripen_v_1)
+(pakA_9 boil_7 _boil_v_1)
+(pakA_10 fire_21 _fire_v_1)
+(pakA_11 cooking_20 _cook_v_1)
+(pakA_12 ripe_3 _ripe_a_1)
+(pakA_13 mature_3 _mature_a_1)

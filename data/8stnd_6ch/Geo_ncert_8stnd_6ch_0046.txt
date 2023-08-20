@@ -1,0 +1,11 @@
+#किसान सभी लोगों की भोजन की आवश्यकताओं को पूरा करने के लिए पर्याप्त उत्पादन करने में सक्षम नहीं थे।
+kisAna_1,saBI_1,loga_2,Bojana_1,AvaSyakawA_3,paryApwa_1,uwpAxana_3+pUrA_2+kara_1,sakRama_1,nahIM_1,WA_1-0_WA_1-0_WA_1
+1,2,3,4,5,6,7,8,9,10
+,,,,,,,,,
+,,,,,,,,,
+10:k1,3:quant,4:r6,5:r6,7:k2,7:mod,7:mod,10:mod,10:neg,0:main
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+negative
+nahIM_1 not found in dictionary.

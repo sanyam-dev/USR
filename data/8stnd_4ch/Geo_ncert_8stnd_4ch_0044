@@ -1,0 +1,39 @@
+#पशुचारक मुख्यतः भेड, ऊँट, मवेशी, याक और बकरियाँ पालते हैं।
+paSucAraka_1,muKyawaH_1,Beda_1,Uzta_1,maveSI_1,yAka_1,bakarI_1,pAla_1-wA_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+8:k1,4:mod,4:mod,8:k1,6:mod,8:k2,8:k2,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(paSucAraka_1 pastoralists_1 _pastoralists/NNS_u_unknown)
+(muKyawaH_1 broadly_2 _broad_a_1)
+(muKyawaH_2 mainly_5 _mainly_x_deg)
+(Uzta_1 camel_1 _camel/NN_u_unknown)
+(Uzta_2 bishop_1 _bishop_n_1)
+(maveSI_1 cattle_4 _cattle_n_1)
+(maveSI_2 goats_1 _goat_n_1)
+(maveSI_3 sheep_2 _sheep_n_1)
+(bakarI_2 nannygoat_1 _nannygoat/NN_u_unknown)
+(bakarI_3 goat_2 _goat_n_1)
+(bakarI_4 simpleton_2 _simpleton/NN_u_unknown)
+(bakarI_1 goat_1 _goat_n_1)
+(pAla_1 sail_1 _sail_n_1)
+(pAla_2 leaves_1 _leaf_n_1)
+(pAla_3 maintainer_1 _maintainer/NN_u_unknown)
+(pAla_4 rear_1 _rear_n_1)
+(pAla_5 nurture_3 _nurture_n_of)
+(pAla_6 foster_1 _foster_a_1)
+(pAla_7 feed_3 _feed_n_1)
+(pAla_8 mother_3 _mother_n_of)
+(pAla_9 tame_3 _tame_a_1)
+(pAla_10 dike_5 _dike_n_1)
+(pAla_11 tent_4 _tent_n_1)
+(pAla_12 hanging_3 _hanging_n_1)
+(pAla_13 curtain_4 _curtain_n_1)
+(pAla_14 protect_5 _protect_v_1)
+(pAla_15 pavilion_3 _pavilion_n_1)
+(pAla_16 protector_29 _protector/NN_u_unknown)
+(pAla_17 protector_46 _protector/JJ_u_unknown)

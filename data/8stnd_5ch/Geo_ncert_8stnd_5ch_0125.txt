@@ -1,0 +1,11 @@
+#मानवनिर्मित रेशों में नाइलॉन, पॉलिएस्टर, ऐक्रिलिक और रेयॉन शामिल हैं।
+mAnavanirmiwa_1,reSA_1,nAiloYna_1,poYliestara_1,Ekrilika_1,reyoYna,SAmila_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,[- - -],[- - -],,
+2:mod,8:k7,8:k1,5:mod,8:k1,8:k1,8:mod,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+nAiloYna_1,poYliestara_1,reyoYna not found in dictionary.

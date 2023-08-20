@@ -1,0 +1,48 @@
+#यह उष्ण कटिबंधीय और उपोष्ण कटिबंधीय प्रदेशों का मुख्य आहार है।
+yaha,uRNa_1+katibaMXIya_1,upoRNa_1,praxeSa_1,muKya_1,AhAra_1,hE_1-0_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+[m s a],,,,,,
+2:dem,4:mod,2:mod,6:r6,6:mod,7:k1,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(uRNa_1 hot_1 _hot_a_1)
+(uRNa_2 warm_1 _warm_a_1)
+(uRNa_3 fiery_1 _fiery_a_1)
+(uRNa_4 heat_4 _heat_n_1)
+(uRNa_6 warmth_1 _warmth_n_1)
+(uRNa_8 heated_9 _heat_v_cause)
+(katibaMXIya_1 zonal_4 _zonal/NN_u_unknown)
+(upoRNa_1 sub-tropical_1 _sub_a_1+_tropical_a_1)
+(praxeSa_1 region_6 _region_n_of)
+(praxeSa_2 territory_2 _territory_n_1)
+(praxeSa_3 zone_2 _zone_n_of)
+(praxeSa_4 district_3 _district_n_of)
+(praxeSa_5 state_13 _state_n_of)
+(praxeSa_7 imagination_4 _imagination_n_1)
+(praxeSa_9 province_3 _province_n_1)
+(praxeSa_10 site_12 _site_n_1)
+(muKya_1 principal_3 _principal_a_1)
+(muKya_2 chief_10 _chief_n_1)
+(muKya_4 salient_1 _salient_a_1)
+(muKya_6 leading_4 _lead_v_1)
+(muKya_7 capital_2 _capital_a_1)
+(muKya_8 cardinal_1 _cardinal_a_1)
+(muKya_9 high_15 _high_a_1)
+(muKya_10 supreme_6 _supreme_a_1)
+(muKya_11 primary_4 _primary_a_1)
+(muKya_12 original_5 _original_a_1)
+(muKya_13 head_7 _head_n_of)
+(muKya_15 major_6 _major_n_1)
+(muKya_17 foremost_5 _foremost_a_1)
+(muKya_1 main_1 _main_a_1)
+(AhAra_1 food_2 _food_n_1)
+(AhAra_2 diet_1 _diet_n_1)
+(AhAra_3 victuals_1 _victuals/NNS_u_unknown)
+(AhAra_4 meal_9 _meal_n_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

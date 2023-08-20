@@ -1,0 +1,43 @@
+#ये पवन अपरदन से अत्याधिक प्रभावित हैं ।
+wyax,pavana_3,aparaxana_1,awyAXika_1,praBAviwa_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+[m p a],,,,,
+3:dem,3:pof__cn,6:rh,5:intf,6:mod,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+wyax not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept pavana_1 air_4 _air_n_1)
+(concept_label-concept_in_Eng-MRS_concept pavana_2 breeze_1 _breeze_n_1)
+(concept_label-concept_in_Eng-MRS_concept pavana_3 wind_2 _wind_n_1)
+(concept_label-concept_in_Eng-MRS_concept pavana_4 three-fourth_1 ord)
+(concept_label-concept_in_Eng-MRS_concept pavana_5 winnowing_1 _winnow_v_1)
+(concept_label-concept_in_Eng-MRS_concept pavana_7 charm_22 _charm_n_1)
+(concept_label-concept_in_Eng-MRS_concept pavana_1 winds_1 _wind_n_1)
+(concept_label-concept_in_Eng-MRS_concept aparaxana_1 erosion_1 _erosion_n_1)
+(concept_label-concept_in_Eng-MRS_concept aparaxana_1 erosion_8 _erosion_n_1)
+(concept_label-concept_in_Eng-MRS_concept awyAXika_8 extreme_16 _extreme_a_1)
+(concept_label-concept_in_Eng-MRS_concept praBAviwa_1 influenced_2 _influence_v_1)
+(concept_label-concept_in_Eng-MRS_concept praBAviwa_2 impressed_2 _impressed_a_with)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(pavana_1 air_4 _air_n_1)
+(pavana_2 breeze_1 _breeze_n_1)
+(pavana_3 wind_2 _wind_n_1)
+(pavana_4 three-fourth_1 ord)
+(pavana_5 winnowing_1 _winnow_v_1)
+(pavana_7 charm_22 _charm_n_1)
+(pavana_1 winds_1 _wind_n_1)
+(aparaxana_1 erosion_1 _erosion_n_1)
+(aparaxana_1 erosion_8 _erosion_n_1)
+(awyAXika_8 extreme_16 _extreme_a_1)
+(praBAviwa_1 influenced_2 _influence_v_1)
+(praBAviwa_2 impressed_2 _impressed_a_with)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)

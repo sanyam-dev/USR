@@ -1,0 +1,63 @@
+#अन्य आकाशीय पिण्डों की भाँति पृथ्वी की आकृति भी गोलाकार है ।
+anya_1,AkASIya_1,piNdoM_1,pqWvI_1,Akqwi_1,BI_1,golAkAra_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,loc,,,,
+,,,,,,,
+3:mod,1:mod,8:rv,5:r6,8:k1,5:lwg__rp,8:mod,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+piNdoM_1 not found in dictionary.
+(concept_label-concept_in_Eng-MRS_concept anya_2 another_1 _another_q)
+(concept_label-concept_in_Eng-MRS_concept anya_3 different_1 _different_a_than-from)
+(concept_label-concept_in_Eng-MRS_concept anya_4 mutual_1 _mutual_a_1)
+(concept_label-concept_in_Eng-MRS_concept anya_1 other_1 _other_a_1)
+(concept_label-concept_in_Eng-MRS_concept AkASIya_1 heavenly_2 _heavenly_a_1)
+(concept_label-concept_in_Eng-MRS_concept AkASIya_2 celestial_4 _celestial_a_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_2 ground_5 _ground_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_1 earth_9 _earth_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_3 soil_3 _soil_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_4 world_56 _world_n_of)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_1 shape_2 _shape_n_1)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_2 figure_2 _figure_n_1)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_3 form_2 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_4 structure_1 _structure_n_1)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_5 appearance_1 _appearance_n_of)
+(concept_label-concept_in_Eng-MRS_concept Akqwi_6 features_1 _feature_n_1)
+(concept_label-concept_in_Eng-MRS_concept BI_1 also_3 _also_a_1)
+(concept_label-concept_in_Eng-MRS_concept BI_2 too_2 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept BI_3 even_7 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept golAkAra_1 round_2 _round_a_1)
+(concept_label-concept_in_Eng-MRS_concept golAkAra_2 globular_2 _globular/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept golAkAra_3 circular_3 _circular_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2_have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(anya_2 another_1 _another_q)
+(anya_3 different_1 _different_a_than-from)
+(anya_4 mutual_1 _mutual_a_1)
+(anya_1 other_1 _other_a_1)
+(AkASIya_1 heavenly_2 _heavenly_a_1)
+(AkASIya_2 celestial_4 _celestial_a_1)
+(pqWvI_2 ground_5 _ground_n_1)
+(pqWvI_1 earth_9 _earth_n_1)
+(pqWvI_3 soil_3 _soil_n_1)
+(pqWvI_4 world_56 _world_n_of)
+(Akqwi_1 shape_2 _shape_n_1)
+(Akqwi_2 figure_2 _figure_n_1)
+(Akqwi_3 form_2 _form_n_of)
+(Akqwi_4 structure_1 _structure_n_1)
+(Akqwi_5 appearance_1 _appearance_n_of)
+(Akqwi_6 features_1 _feature_n_1)
+(BI_1 also_3 _also_a_1)
+(BI_2 too_2 _too_a_also)
+(BI_3 even_7 _even_a_1)
+(golAkAra_1 round_2 _round_a_1)
+(golAkAra_2 globular_2 _globular/JJ_u_unknown)
+(golAkAra_3 circular_3 _circular_a_1)
+(hE_1 state_copula_1 _be_v_id)
+(hE_2 have_1 _have_v_1)
+(hE_3 have_2_have_v_1)
+(hE_5 state_copula_1 _be_v_there)
