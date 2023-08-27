@@ -1,7 +1,7 @@
 from usr import USR
 
-input_dir = "./data"	#change to data storage location
-output_dir = "./results"	#change to result storage location
+input_dir = "./test"	#change to data storage location
+output_dir = "./results_test"	#change to result storage location
 
 usr = USR()
 usr.set_root_folder_path(input_dir)

@@ -101,7 +101,8 @@ class USR:
 			
 		def process_usr(self,prev_filename, prev_usr, curr_filename, curr_usr):
 				str1 = curr_usr[0][0][1:]
-				print("str: " , self.con.convert(str1))
+				str1 = self.con.convert(str1)
+				# print("str: " , self.con.convert(str1))
 				discourse_rel = self.mpd(str1)
 				if(discourse_rel == "-1"):
 					return prev_usr, curr_usr
