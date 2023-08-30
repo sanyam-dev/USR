@@ -93,10 +93,11 @@ class USR:
 
 		def get_main_str(self, usr):
 			strings_with_main = ""
+			i = 1
 			for item in usr[5]:
-				if item and item.endswith(":main"):
-					rest_of_string = item[-7:-5]
-					strings_with_main += rest_of_string
+				if item == "0:main":
+					strings_with_main += str(i)
+				i+=1
 			return strings_with_main
 			
 		def process_usr(self,prev_filename, prev_usr, curr_filename, curr_usr):
@@ -120,6 +121,7 @@ class USR:
 				else:
 					strings_with_main = self.get_main_str(prev_usr)
 					usr_id = prev_filename
+					usr_id = usr_id[:-4]
 					fin = usr_id + "." + strings_with_main + ":" + discourse_rel
 					position_of_discourse = int(strings_with_main)
 					curr_usr[6][position_of_discourse] = fin
