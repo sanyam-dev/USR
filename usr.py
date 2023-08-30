@@ -98,7 +98,7 @@ class USR:
 				if item == "0:main":
 					strings_with_main += str(i)
 				i+=1
-			return strings_with_main
+			return strings_with_main, i
 			
 		def process_usr(self,prev_filename, prev_usr, curr_filename, curr_usr):
 				str1 = curr_usr[0][0][1:]
@@ -112,18 +112,18 @@ class USR:
 				# y == 1  means discourse relation to be added to curr_usr
 				if y == 0:
 					# find main of curr_usr
-					strings_with_main = self.get_main_str(curr_usr)
+					strings_with_main, iii = self.get_main_str(curr_usr)
 					usr_id = curr_filename
 					fin = usr_id + "." + strings_with_main + ":" + discourse_rel
-					position_of_discourse = int(strings_with_main)
+					position_of_discourse = iii
 					prev_usr[6][position_of_discourse] = fin
 					# fin = usr_id + "." + strings_with_main
 				else:
-					strings_with_main = self.get_main_str(prev_usr)
+					strings_with_main, iii = self.get_main_str(prev_usr)
 					usr_id = prev_filename
 					usr_id = usr_id[:-4]
 					fin = usr_id + "." + strings_with_main + ":" + discourse_rel
-					position_of_discourse = int(strings_with_main)
+					position_of_discourse = iii
 					curr_usr[6][position_of_discourse] = fin
 				
 				return prev_usr, curr_usr
