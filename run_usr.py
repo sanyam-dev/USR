@@ -1,6 +1,6 @@
 from usr import USR
 
-input_dir = "./test"	#change to data storage location
+input_dir = "./data"	#change to data storage location
 output_dir = "./results_test"	#change to result storage location
 
 usr = USR()

@@ -34,7 +34,7 @@ class USR:
 					"anyawra": "1",
 					"samAnakAla":"0",
 					"viroXi": "1",
-					"vyaBicAra":"0",
+					"vyABicAra":"0",
 					"kArya-kAraNa": "0",
 					"AvaSyakwA-pariNAma": "0"
 				}
@@ -76,6 +76,8 @@ class USR:
 			with open(sub_folder_path + "/" + prev_filename + '.txt', "w") as file:
 					for usr_entry in prev_usr:
 							for item in usr_entry:
+									if item == None:
+										item = ""
 									file.write(item + ",")
 							file.write("\n")
 					file.close()
@@ -116,7 +118,13 @@ class USR:
 					usr_id = curr_filename
 					fin = usr_id + "." + strings_with_main + ":" + discourse_rel
 					position_of_discourse = iii
-					prev_usr[6][position_of_discourse] = fin
+					print(fin)
+					try:
+						prev_usr[6][position_of_discourse] = fin
+					except IndexError:
+						li = [None] * (iii + 1)
+						li[iii] = fin
+						prev_usr[6] = li
 					# fin = usr_id + "." + strings_with_main
 				else:
 					strings_with_main, iii = self.get_main_str(prev_usr)
@@ -124,7 +132,13 @@ class USR:
 					usr_id = usr_id[:-4]
 					fin = usr_id + "." + strings_with_main + ":" + discourse_rel
 					position_of_discourse = iii
-					curr_usr[6][position_of_discourse] = fin
+					print(fin, iii)
+					try:
+						curr_usr[6][position_of_discourse] = fin
+					except IndexError:
+						li = [None] * (iii + 1)
+						li[iii] = fin
+						curr_usr[6] = li
 				
 				return prev_usr, curr_usr
 		
