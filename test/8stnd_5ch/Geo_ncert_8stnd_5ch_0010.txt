@@ -1,0 +1,11 @@
+#ये विनिर्माण प्रक्रिया के दो चरणों को प्रदर्शित करते हैं।
+yaha_1,vinirmANa_1+prakriyA_1,xe_1,caraNa_1,praxarSiwa_1+kara_1-wA_hE_1-wA_hE_1
+1,2,3,4,5
+,,,,
+[m p a],,,,
+2:dem,4:r6,4:card,5:k2,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+

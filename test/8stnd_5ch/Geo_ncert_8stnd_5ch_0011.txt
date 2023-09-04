@@ -1,0 +1,11 @@
+#उद्योग का संबंध आर्थिक गतिविधि से है जो कि वस्तुओं के उत्पादन, खनिजों के निष्कर्षण अथवा सेवाओं की व्यवस्था से संबंधित है।
+uxyoga_1,saMbaMXa_10,ArWika_1,gawiviXi_1,_1,jo,ki_1,vaswu_1,uwpAxana_1+KanijoM_1,niRkarRaNa_1,kara_1,se_1,hE_1,_1
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+,,,,,,,,,,,,,
+,,,,,[m s a],,,,,,,,
+2:r6,14:k1,4:mod,14:krvn,2:nmod__relc,14:k1,6:lwg__rp,9:r6,10:r6,12:r6,12:r6,14:ras-k1,14:mod,2:nmod__relc
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+affirmative
+KanijoM_1 not found in dictionary.

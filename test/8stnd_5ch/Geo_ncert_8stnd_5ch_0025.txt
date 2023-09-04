@@ -1,0 +1,11 @@
+#लुगदी एवं कागज, औषध रसायन, फर्नीचर और भवन निर्माण वनों से संबंधित उद्योग हैं।
+lugaxA_1,rasAyana_6+ORaXa_1+kAgaja_1+ParnIcara_1,Bavana_2,nirmANa_1,vana_2,saMbaMXiwa_1,uxyoga_1,hE_1-0_hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+0:ccof,2:pof__cn,8:k1,5:mod,6:intf,7:mod,8:k1s,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+lugaxA_1 not found in dictionary.

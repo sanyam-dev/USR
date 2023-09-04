@@ -1,0 +1,11 @@
+#एवं वस्त्र उत्पादन प्रक्रिया में इसका वजन कम नहीं होता।
+vaswra_1+prakriyA_1,uwpAxana_1,yaha_1,vajana_1,nahIM_1,ho_1,_1-yA_1-yA_1
+1,2,3,4,5,6,7
+,,,,,,
+,,[m s a],,,,
+7:k7,1:pof__cn,4:r6,7:k1,7:k1s,7:neg,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+negative
+nahIM_1 not found in dictionary.

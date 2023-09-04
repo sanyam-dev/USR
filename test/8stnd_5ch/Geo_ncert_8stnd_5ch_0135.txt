@@ -1,0 +1,11 @@
+#पहली सफल यंत्राकृत वस्त्र मिल मुंबई में 1854 ई। में स्थापित की गई।
+pahalA_1,saPala_1,yaMwrAkqwa_1,vaswra_1,mila_2,muMbaI,1854,I_1-yA_1-yA_1,sWApiwa+kara_2,jA_1
+1,2,3,4,5,6,7,8,9,10
+,,,,,loc,,,,
+,,,,,[- - -],[- - -],,,
+4:ord,4:mod,2:mod,5:k1,8:vmod,8:k7p,8:k2p,0:main,0:ccof,9:lwg__vaux
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+affirmative
+yaMwrAkqwa_1,muMbaI,1854,I_1 not found in dictionary.

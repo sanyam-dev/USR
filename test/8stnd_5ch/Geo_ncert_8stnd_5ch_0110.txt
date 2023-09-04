@@ -1,0 +1,11 @@
+#इन खानों और पिट्सबर्ग के बीच नौपरिवहन का सर्वोत्तम मार्ग, ग्रेट लेक्स जलमार्ग, आता है।
+yaha_1,KAnA_1,pitsabarga,bIca_1,nOparivahana_2,sarvowwama_2,mArga_3,greta_1,leksa_1,jalamArga,A_1-wA_hE_1-wA_hE_1
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,loc
+[m p a],,[- - -],,,,,,,[- - -],
+2:dem,11:k1,11:k1,3:lwg__psp,7:r6,7:mod,11:k1,10:pof__cn,10:pof__cn,11:k1s,0:main
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+pitsabarga,greta_1,leksa_1 not found in dictionary.
