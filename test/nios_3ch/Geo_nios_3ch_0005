@@ -1,0 +1,57 @@
+#उनकी यह गतिशीलता दो शक्तियों - आंतरिक एवं बाह्य का परिणाम है ।
+vaha,yaha,gawiSIlawA_1,xe_1,SakwiyoM_1+AMwarika_1,bAhya_1,pariNAma_1,hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+[f p a],[m s a],,,,,,
+3:r6,3:dem,8:k1,7:card,7:mod,7:r6,8:k1s,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept yaha_1 this_3 _this_q_dem)
+(concept_label-concept_in_Eng-MRS_concept yaha_2 that_1 _that_q_dem)
+(concept_label-concept_in_Eng-MRS_concept gawiSIlawA_1 dynamism_1 _dynamism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept gawiSIlawA_2 kinesis_1 _kinesis/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept gawiSIlawA_3 activity_6 _activity_n_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIlawA_4 dynamism_3 _dynamism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept gawiSIlawA_5 activity_7 _activity_n_1)
+(concept_label-concept_in_Eng-MRS_concept xe_1 give_1 _give_v_1)
+(concept_label-concept_in_Eng-MRS_concept xe_2 grant_2 _grant_n_1)
+(concept_label-concept_in_Eng-MRS_concept xe_3 confer_1 _confer_v_1)
+(concept_label-concept_in_Eng-MRS_concept xe_5 entrust_1 _entrust/VB_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xe_7 yield_5 _yield_n_1)
+(concept_label-concept_in_Eng-MRS_concept xe_8 surrender_2 _surrender_n_1)
+(concept_label-concept_in_Eng-MRS_concept xe_9 give_4 _give_v_yield)
+(concept_label-concept_in_Eng-MRS_concept xe_8 cause_5 _cause_n_of)
+(concept_label-concept_in_Eng-MRS_concept xe_10 deliver_3 _deliver_v_to)
+(concept_label-concept_in_Eng-MRS_concept xe_11 contribute_1 _contribute_v_to)
+(concept_label-concept_in_Eng-MRS_concept xe_12 produce_11 _produce_v_1)
+(concept_label-concept_in_Eng-MRS_concept xe_13 lay_4 _lay_a_1)
+(concept_label-concept_in_Eng-MRS_concept xe_14 throw_9 _throw_v_1)
+(concept_label-concept_in_Eng-MRS_concept xe_15 close_11 _close_v_1)
+(concept_label-concept_in_Eng-MRS_concept xe_16 giving_14 _give_v_yield)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_1 internal_4 _internal_a_1)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_2 intra_2 _intra/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_3 innate_2 _innate_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_1 out_2 _out_p)
+(concept_label-concept_in_Eng-MRS_concept bAhya_2 outside_3 _outside_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_3 beyond_3 _beyond_p)
+(concept_label-concept_in_Eng-MRS_concept bAhya_7 outer_4 _outer_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_8 external_5 _external_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_9 foreign_7 _foreign_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_10 outward_1 _outward_a_1)
+(concept_label-concept_in_Eng-MRS_concept bAhya_11 apparent_5 _apparent_a_to)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_1 result_3 _result_n_of)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_2 outcome_1 _outcome_n_1)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_3 consequence_2 _consequence_n_of)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_4 conclusion_9 _conclusion_n_of)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_5 effect_5 _effect_n_1)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_6 magnitude_2 _magnitude_n_1)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_7 change_10 _change_n_of)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_8 transformation_3 _transformation_n_of)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_9 deduction_3 _deduction_n_1)
+(concept_label-concept_in_Eng-MRS_concept pariNAma_10 termination_4 _termination_n_of)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

@@ -1,0 +1,52 @@
+#अथवा नीचे गहराई में सिमा विस्थापित हो गया है ।
+gaharA_1,meM_1,visWApiwa_1,ho_1+jA_1-yA_gayA_hE_1
+1,2,3,4
+,,,
+,,,
+4:k7,4:k7,4:k1,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept gaharA_1 deep_5 _deep_a_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_2 profound_3 _profound_a_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_3 intimate_5 _intimate_a_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_4 deepen_1 _deepen_v_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_5 sound_4 _sound_n_of)
+(concept_label-concept_in_Eng-MRS_concept gaharA_6 strong_4 _strong_n_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_7 grave_2 _grave_n_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_8 sheaf_1 _sheaf_n_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_9 difficult_13 _difficult_a_for)
+(concept_label-concept_in_Eng-MRS_concept gaharA_10 hard_18 _hard_a_for)
+(concept_label-concept_in_Eng-MRS_concept gaharA_11 dark_61 _dark_a_1)
+(concept_label-concept_in_Eng-MRS_concept gaharA_12 high_30 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept meM_1 bleating_1 _bleating/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept meM_3 bleat_5 _bleat/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept visWApiwa_1 displaced_1 _displace_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept jA_1 go_1 _go_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_2 depart_1 _depart_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_3 leave_8 _leave_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_4 fit_4 _fit_n_of)
+(concept_label-concept_in_Eng-MRS_concept jA_5 right_4 _right_n_1)
+(concept_label-concept_in_Eng-MRS_concept jA_6 act_10 _act_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_7 dwindle_1 _dwindle_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_8 evaporate_3 _evaporate_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_9 vanish_5 _vanish_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_10 sell_13 _sell_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_11 pass_26 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_12 bear_17 _bear_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_13 die_37 _die_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_14 expire_14 _expire_v_1)
+(concept_label-concept_in_Eng-MRS_concept jA_15 run_14 _run_v_1)

@@ -1,0 +1,29 @@
+#ये सात बडी और सात छोटे आकार की प्लेट है ।
+yaha,sAwa_1,badA_1,sAwa_1,CotA_1,AkAra_1,pleta_1,hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+[m p a],,,,,,,
+8:k1,6:card,8:mod,6:card,6:mod,7:r6,8:k1,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept badA_1 elder_3 _elder_n_1)
+(concept_label-concept_in_Eng-MRS_concept badA_2 huge_11 _huge_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_1 small_6 _small_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_2 little_5 _little_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_5 subordinate_2 _subordinate_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_6 junior_2 _junior_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_7 insignificant_3 _insignificant_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_8 cockerel_1 _cockerel/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept CotA_11 tight_2 _tight_a_1)
+(concept_label-concept_in_Eng-MRS_concept AkAra_1 form_1 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept AkAra_2 shape_1 _shape_n_1)
+(concept_label-concept_in_Eng-MRS_concept AkAra_3 size_1 _size_n_1)
+(concept_label-concept_in_Eng-MRS_concept AkAra_4 manner_2 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept AkAra_5 format_1 _format_n_1)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

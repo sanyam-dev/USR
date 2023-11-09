@@ -1,0 +1,11 @@
+#जब वर्षा होती ह
+varRA_1, ho_1-wA_hE_1
+1,2
+,
+Sg,
+2:k1,0:main
+,6b.4:samAnakAla
+,
+,
+affirmative
+

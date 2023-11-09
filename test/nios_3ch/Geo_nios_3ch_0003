@@ -1,0 +1,32 @@
+#भूपृष्ठ की शैलों के प्रकार और घनत्व परिवर्तनशील हैं ।
+BUpqRTa_1,SEloM_1,prakAra_1,Ganawva_1,parivarwanaSIla_1,hE_1-0_hE_1
+1,2,3,4,5,6
+per,,,,,
+,,,,,
+2:r6,3:r6,6:k1,6:k1,6:mod,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept prakAra_1 kind_8 _kind_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_2 quality_6 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_3 mode_5 _mode_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_4 manner_5 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_5 way_8 _way_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_6 method_9 _method_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_7 type_6 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_8 pattern_3 _pattern_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_9 variety_7 _variety_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_10 sort_1 _sort_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_11 compass_18 _compass_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_12 form_61 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_1 density_4 _density_n_1)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_2 denseness_4 _denseness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_3 compactness_2 _compactness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept parivarwanaSIla_1 changing_2 _change_v_1)
+(concept_label-concept_in_Eng-MRS_concept parivarwanaSIla_2 variable_3 _variable_a_1)
+(concept_label-concept_in_Eng-MRS_concept parivarwanaSIla_3 variability_3 _variability/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

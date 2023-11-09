@@ -1,0 +1,49 @@
+#ये धाराएँ भूपृष्ठ की परत तक पहुँचते ही मुड जाती हैं ।
+yaha,XArA_1,BUpqRTa_1,parawa_1,pahuzca_1,hI_1,muda_1-wA_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+[m p a],,,,,,
+2:dem,7:k1,4:r6,5:k7,7:vmod,5:lwg__rp,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept XArA_1 current_4 _current_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_2 stream_1 _stream_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_3 eddy_1 _eddy_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_4 section_11 _section_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_5 article_3 _article_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_6 paragraph_1 _paragraph_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_7 multitude_3 _multitude_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_8 mass_10 _mass_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_9 rim_1 _rim_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_10 circumference_3 _circumference_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_11 flow_15 _flow_n_of)
+(concept_label-concept_in_Eng-MRS_concept BUpqRTa_1 surface_9 _surface_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_3 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_2 fold_3 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_4 lagging_1 _lag_v_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_5 film_4 _film_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_6 lamination_1 _lamination_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_8 stratum_3 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_9 metal_5 _metal_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_12 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_3+aparaxana_1 sheet_1+erosion_8 _sheet_n_of+_erosion_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_3 sheet_1 _sheet_n_of)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_1 reach_1 _reach_v_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_2 access_4 _access_n_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_3 arrival_4 _arrival_n_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_4 receipt_2 _receipt_n_of)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_5 reach_2 _reach_n_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_6 arrive_1 _arrive_v_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_8 acknowledgment_1 _acknowledgment/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_9 goods_5 _goods_n_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_10 scope_8 _scope_n_of)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_11 capacity_5 _capacity_n_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_12 capability_4 _capability_n_to)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_13 scope_9 _scope_n_of)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_14 compare_4 _compare_v_1)
+(concept_label-concept_in_Eng-MRS_concept pahuzca_15 gain_27 _gain_v_1)
+(concept_label-concept_in_Eng-MRS_concept hI_1 only_6 _only_a_1)
+(concept_label-concept_in_Eng-MRS_concept hI_2 heart_27 _heart_n_1)
+(concept_label-concept_in_Eng-MRS_concept muda_1 twist_18 _twist_v_1)

@@ -1,0 +1,42 @@
+#आंतरिक शक्तियाँ वे हैं जो धरातल के नीचे से उत्पन्न होती हैं ।
+AMwarika_1,SakwiyAz_1,vaha,hE_1,jo,XarAwala_1,nIcA_1,uwpanna_1+ho_1,hE_1
+1,2,3,4,5,6,7,8,9
+,,,,,,,,
+,,[m p a],,[m s a],,,,
+2:mod,9:k1,9:k1s,8:lwg__vaux,8:k1,8:k7,6:lwg__psp,9:nmod__relc,8:lwg__vaux
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept AMwarika_1 internal_4 _internal_a_1)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_2 intra_2 _intra/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_3 innate_2 _innate_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)
+(concept_label-concept_in_Eng-MRS_concept jo_4 that_2 _that_q_dem)
+(concept_label-concept_in_Eng-MRS_concept XarAwala_1 surface_2 _surface_n_1)
+(concept_label-concept_in_Eng-MRS_concept XarAwala_2 level_8 _level_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_1 mean_10 _mean_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_3 vile_10 _vile/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nIcA_4 low_8 _low_a_on)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 deep_8 _deep_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 base_17 _base_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_6 inferior_8 _inferior_n_1)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_1 produced_1 _produce_v_1)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_2 born_1 _bear_v_2)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_3 originated_1 _originate_v_1)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_1 produced_1 _produce_v_1)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_2 born_1 _bear_v_2)
+(concept_label-concept_in_Eng-MRS_concept uwpanna_3 originated_1 _originate_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

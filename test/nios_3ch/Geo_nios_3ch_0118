@@ -1,0 +1,31 @@
+#सात मुख्य प्लेट हैं ।
+sAwa_1,muKya_1,pleta_1,hE_1-0_hE_1
+1,2,3,4
+,,,
+,,,
+3:card,3:mod,4:k1,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept muKya_1 principal_3 _principal_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_2 chief_10 _chief_n_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_4 salient_1 _salient_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_6 leading_4 _lead_v_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_7 capital_2 _capital_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_8 cardinal_1 _cardinal_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_9 high_15 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_10 supreme_6 _supreme_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_11 primary_4 _primary_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_12 original_5 _original_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_13 head_7 _head_n_of)
+(concept_label-concept_in_Eng-MRS_concept muKya_15 major_6 _major_n_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_17 foremost_5 _foremost_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_1 main_1 _main_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_3 prominent_1 _prominent_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_1+Xyeya_4 main_1+objective_1 _main_a_1+_objective_n_1)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

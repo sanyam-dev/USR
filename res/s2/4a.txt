@@ -1,0 +1,11 @@
+#राम समय पर नहीं आया
+rAma,samaya_1,nahIM_1,A_1-yA_1
+1,2,3,4
+per,,,
+[m sg a],,,
+4:k1,4:k7t,4:neg,0:main
+,,
+,,
+,,
+negative
+

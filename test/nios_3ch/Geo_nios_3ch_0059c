@@ -1,0 +1,27 @@
+#तो उसका घनत्व अधिक होगा ।
+Ganawva,aXika_1,ho_1,_1-gA_1
+1,2,3,4
+,,,
+[m s -],,,
+2:r6,4:k1,4:k1s,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept Ganawva_1 density_4 _density_n_1)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_2 denseness_4 _denseness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_3 compactness_2 _compactness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept aXika_1 more_1 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept aXika_2 much_2 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept aXika_3 many_1 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept aXika_4 plenty_2 _plenty_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXika_6 abundant_2 _abundant_a_1)
+(concept_label-concept_in_Eng-MRS_concept aXika_7 excessive_3 _deceitful/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept aXika_8 additional_1 _additional_a_1)
+(concept_label-concept_in_Eng-MRS_concept aXika_9 remaining_18 _remain_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

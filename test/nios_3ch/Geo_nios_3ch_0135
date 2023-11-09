@@ -1,0 +1,35 @@
+#यह मध्य महासागरीय कटक के नीचे होता है ।
+yaha,maXya_1,mahAsAgarIya_1,kataka,nIcA_1,ho_1-wA_hE_1
+1,2,3,4,5,6
+,,,loc,,
+[m s a],,,[m s -],,
+6:k1,4:pof__cn,4:mod,6:k7p,4:lwg__psp,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept maXya_1 middle_2 _middle_a_1)
+(concept_label-concept_in_Eng-MRS_concept maXya_4 intervening_2 _intervene_v_1)
+(concept_label-concept_in_Eng-MRS_concept maXya_5 middling_1 _middling_a_1)
+(concept_label-concept_in_Eng-MRS_concept maXya_6 position_14 _position_n_of)
+(concept_label-concept_in_Eng-MRS_concept maXya_8 centre_4 _center_n_of)
+(concept_label-concept_in_Eng-MRS_concept maXya_7 central_1 _central_a_1)
+(concept_label-concept_in_Eng-MRS_concept mahAsAgarIya_1 ocean_17 _ocean_n_1)
+(concept_label-concept_in_Eng-MRS_concept kataka_1 cantonment_1 _cantonment/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kataka_2 army_1 _army_n_of)
+(concept_label-concept_in_Eng-MRS_concept kataka_3 dash_4 _dash_v_1)
+(concept_label-concept_in_Eng-MRS_concept kataka_4 host_2 _host_n_of-to)
+(concept_label-concept_in_Eng-MRS_concept kataka_5 bracelet_1 _bracelet_n_1)
+(concept_label-concept_in_Eng-MRS_concept kataka_1 ridge_1 _ridge_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_1 mean_10 _mean_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_3 vile_10 _vile/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nIcA_4 low_8 _low_a_on)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 deep_8 _deep_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 base_17 _base_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_6 inferior_8 _inferior_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

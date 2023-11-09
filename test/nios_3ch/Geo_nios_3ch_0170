@@ -1,0 +1,25 @@
+#पृथ्वी का धरातल गतिशील है ।
+pqWvI,XarAwala_1,gawiSIla_1,hE_1-0_hE_1
+1,2,3,4
+loc,,,
+[f s -],,,
+2:r6,4:k1,4:mod,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept pqWvI_2 ground_5 _ground_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_1 earth_9 _earth_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_3 soil_3 _soil_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_4 world_56 _world_n_of)
+(concept_label-concept_in_Eng-MRS_concept XarAwala_1 surface_2 _surface_n_1)
+(concept_label-concept_in_Eng-MRS_concept XarAwala_2 level_8 _level_n_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIla_1 dynamic_2 _dynamic_a_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIla_2 active_6 _active_a_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIla_3 dynamic_4 _dynamic_n_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIla_4 mobile_4 _mobile_a_1)
+(concept_label-concept_in_Eng-MRS_concept gawiSIla_5 moving_18 _move_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

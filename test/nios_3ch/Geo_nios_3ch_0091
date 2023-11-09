@@ -1,0 +1,24 @@
+#कोयला और वनस्पति सम्बन्धी प्रमाण ।
+koyalA_1,vanaspawi_1,sambanXI_1,pramANa_1
+1,2,3,4
+org,,,
+,,,
+4:r6,4:r6,4:mod,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept vanaspawi_1 plant_9 _plant_n_1)
+(concept_label-concept_in_Eng-MRS_concept vanaspawi_2 vegetation_3 _vegetation_n_1)
+(concept_label-concept_in_Eng-MRS_concept vanaspawi_3 flora_1 _flora_n_1)
+(concept_label-concept_in_Eng-MRS_concept vanaspawi_2+AvaraNa_1 vegetation_3+cover_5 _vegetation_n_1+_cover_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_1 proof_7 _proof_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_1+pawra_1 certificate_4 _certificate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_2 measure_17 _measure_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_3 standard_8 _standard_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_4 authority_16 _authority_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_5 precedent_2 _precedent_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_6 evidence_5 _evidence_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_7 verification_4 _verification_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_8 warrant_1 _warrant_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_9 evidence_6 _evidence_n_of)

@@ -1,0 +1,32 @@
+#ये प्लेट दुर्बलता मण्डल के ऊपर तैर रहे हैं ।
+yaha,xurbalawA_1+pleta_1+maNdala_1_1,Upara_1,wEra_1-0_rahA_hE_1
+1,2,3,4
+,,,
+[m p a],,,
+2:dem,2:pof__cn,2:lwg__psp,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_1 weakness_8 _weakness_n_1)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_2 feebleness_3 _feebleness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_3 frailty_4 _frailty/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_1 weakness_8 _weakness_n_1)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_2 feebleness_3 _feebleness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_3 frailty_4 _frailty/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept maNdala_1 county_1 _county_n_of)
+(concept_label-concept_in_Eng-MRS_concept maNdala_2 zone_4 _zone_n_of)
+(concept_label-concept_in_Eng-MRS_concept maNdala_3 team_9 _team_n_of)
+(concept_label-concept_in_Eng-MRS_concept Upara_1 on_1 _on_p_dir)
+(concept_label-concept_in_Eng-MRS_concept Upara_3 above_2 _above_p)
+(concept_label-concept_in_Eng-MRS_concept Upara_4 upward_1 _upward_a_1)
+(concept_label-concept_in_Eng-MRS_concept Upara_7 previously_1 _previously_p)
+(concept_label-concept_in_Eng-MRS_concept Upara_8 extra_2 _extra_n_1)
+(concept_label-concept_in_Eng-MRS_concept Upara_10 more_4 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept Upara_11 outside_9 _outside_a_1)
+(concept_label-concept_in_Eng-MRS_concept Upara_12 more_7 _more_a_1)
+(concept_label-concept_in_Eng-MRS_concept wEra_1 swim_1 _swim_v_1)
+(concept_label-concept_in_Eng-MRS_concept wEra_2 float_4 _float_v_1)
+(concept_label-concept_in_Eng-MRS_concept wEra_3 swim_3 _swim_v_1)
+(concept_label-concept_in_Eng-MRS_concept wEra_4 swimming_9 _swim_v_1)

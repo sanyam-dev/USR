@@ -1,0 +1,49 @@
+#इस अवधारणा के अनुसार माउँट एवरेस्ट की जड समुद्र स्तर से 70, 784 मीटर नीचे होनी चाहिए ।
+yaha,avaXAraNA_1,mAuzta_1,evaresta,jada_1,samuxra_1+swara_1,70_1,784_1,mItara_1,nIcA_1,ho_1-nA_cAhie_1
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,
+[m s a],,,[- - -],,,,,,,
+2:dem,11:k7a,4:pof__cn,5:r6,11:k1,11:k5,8:mod,9:card,11:k7,9:lwg__psp,0:main
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept avaXAraNA_1 conception_1 _conception_n_of)
+(concept_label-concept_in_Eng-MRS_concept avaXAraNA_2 achievement_1 _achievement_n_of)
+(concept_label-concept_in_Eng-MRS_concept avaXAraNA_3 impression_9 _impression_n_of)
+(concept_label-concept_in_Eng-MRS_concept avaXAraNA_4 notion_6 _notion_n_of)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_1 ocean_14 _ocean_n_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2 sea_12 _sea_n_of)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2 sea_12 _sea_n_of)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2+Bqgu_2 sea_12+cliff_4 _sea_n_of+_cliff_n_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2+wala_7 sea_12+level_4 _sea_n_of+_level_n_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_1 ocean_14 _ocean_n_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2 sea_12 _sea_n_of)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2 sea_12 _sea_n_of)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2+Bqgu_2 sea_12+cliff_4 _sea_n_of+_cliff_n_1)
+(concept_label-concept_in_Eng-MRS_concept samuxra_2+wala_7 sea_12+level_4 _sea_n_of+_level_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_1 standard_11 _standard_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_2 level_6 _level_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_3 layer_4 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_4 strata_1 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_5 stratum_2 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_6 fold_11 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_7 grade_1 _grade_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_8 attainment_5 _attainment_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_3+ABA_3 layer_4+tint_1 _layer_n_of+_tint_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_8 status_1 _status_n_of-as)
+(concept_label-concept_in_Eng-MRS_concept mItara_1 meter_3 _meter_n_1)
+(concept_label-concept_in_Eng-MRS_concept mItara_2 metre_2 _meter_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_1 mean_10 _mean_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_3 vile_10 _vile/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nIcA_4 low_8 _low_a_on)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 deep_8 _deep_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 base_17 _base_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_6 inferior_8 _inferior_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

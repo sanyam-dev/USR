@@ -1,0 +1,42 @@
+#संवहनीय धाराओं के सिद्धान्त अनुसार इनमे संचालन तीन संभावित रूपों में होता है ।
+saMvahanIya_1,XArA_1,sixXAnwa_1,iname,saMcAlana_1,wIna_1,saMBAviwa_1,rUpA_1,ho_1-wA_hE_1
+1,2,3,4,5,6,7,8,9
+,,,,,,,,
+,,,[- - -],,,,,
+2:mod,3:r6,9:k7a,9:k7,9:k1,8:card,8:mod,9:k7,0:main
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept saMvahanIya_1 convectional_1 _convectional/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept XArA_1 current_4 _current_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_2 stream_1 _stream_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_3 eddy_1 _eddy_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_4 section_11 _section_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_5 article_3 _article_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_6 paragraph_1 _paragraph_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_7 multitude_3 _multitude_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_8 mass_10 _mass_n_of)
+(concept_label-concept_in_Eng-MRS_concept XArA_9 rim_1 _rim_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_10 circumference_3 _circumference_n_1)
+(concept_label-concept_in_Eng-MRS_concept XArA_11 flow_15 _flow_n_of)
+(concept_label-concept_in_Eng-MRS_concept sixXAnwa_1 theory_2 _theory_n_of)
+(concept_label-concept_in_Eng-MRS_concept sixXAnwa_2 principle_4 _principle_n_of)
+(concept_label-concept_in_Eng-MRS_concept saMcAlana_1 direction_12 _direction_n_of)
+(concept_label-concept_in_Eng-MRS_concept saMcAlana_2 conducting_1 _conduct_v_1)
+(concept_label-concept_in_Eng-MRS_concept saMcAlana_4 managing_6 _manage_v_cope)
+(concept_label-concept_in_Eng-MRS_concept saMcAlana_6 directing_6 _direct_v_to)
+(concept_label-concept_in_Eng-MRS_concept saMcAlana_8 disposing_1 _dispose_v_1)
+(concept_label-concept_in_Eng-MRS_concept wIna_1 three_1 card)
+(concept_label-concept_in_Eng-MRS_concept saMBAviwa_1 probable_2 _probable_a_1)
+(concept_label-concept_in_Eng-MRS_concept saMBAviwa_2 esteemed_1 _esteemed_a_1)
+(concept_label-concept_in_Eng-MRS_concept saMBAviwa_3 wellregarded_1 _wellregarded/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept saMBAviwa_5 fitted_1 _fit_v_1)
+(concept_label-concept_in_Eng-MRS_concept saMBAviwa_7 possible_3 _possible_a_for)
+(concept_label-concept_in_Eng-MRS_concept rUpA_1 silver_3 _silver_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

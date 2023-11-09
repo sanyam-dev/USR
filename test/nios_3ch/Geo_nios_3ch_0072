@@ -1,0 +1,41 @@
+#किसी प्रकार की जड नहीं परन्तु क्षतिपूरक स्तर का होना ।
+kisI,prakAra_1,jada_1,nahIM_1,kRawipUraka_1+swara_1,ho_1-yA_1
+1,2,3,4,5,6
+,,,,,
+[- - -],,,,,
+2:mod,3:r6,0:main,0:neg,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+negative
+(concept_label-concept_in_Eng-MRS_concept prakAra_1 kind_8 _kind_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_2 quality_6 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_3 mode_5 _mode_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_4 manner_5 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_5 way_8 _way_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_6 method_9 _method_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_7 type_6 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_8 pattern_3 _pattern_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_9 variety_7 _variety_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_10 sort_1 _sort_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_11 compass_18 _compass_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_12 form_61 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept kRawipUraka_1 compensation_1 _compensation_n_1)
+(concept_label-concept_in_Eng-MRS_concept kRawipUraka_1 compensation_1 _compensation_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_1 standard_11 _standard_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_2 level_6 _level_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_3 layer_4 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_4 strata_1 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_5 stratum_2 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_6 fold_11 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_7 grade_1 _grade_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_8 attainment_5 _attainment_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_3+ABA_3 layer_4+tint_1 _layer_n_of+_tint_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_8 status_1 _status_n_of-as)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

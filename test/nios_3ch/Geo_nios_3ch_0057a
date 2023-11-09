@@ -1,0 +1,31 @@
+#ऊँचे भूभागों का घनत्व कम है ।
+UzcA_1,BUBAgoM_1,Ganawva_1,kama_1,hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+,,,,
+2:mod,3:r6,5:k1,5:k1s,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept UzcA_1 high_5 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_2 lofty_5 _lofty_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_3 elevated_3 _elevate_v_cause-to)
+(concept_label-concept_in_Eng-MRS_concept UzcA_4 superior_4 _capacity_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_5 quality_3 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_6 great_20 _great_a_for)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_1 density_4 _density_n_1)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_2 denseness_4 _denseness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_3 compactness_2 _compactness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kama_1 little_3 _little_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_2 few_4 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept kama_3 scanty_1 _scanty_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_4 less_1 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept kama_6 small_3 _small_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_7 deficient_2 _deficient_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_11 fewest_2 _few_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_13 slight_5 _slight_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

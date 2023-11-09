@@ -1,0 +1,42 @@
+#दोनों एक दूसरे से अलग हटते गए ।
+eka_1,xUsarA_1,se,hata_1+gae_1-yA_1
+1,2,3,4
+,,,
+,,[m p m],
+4:card,3:mod,4:k5,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept eka_1 1_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_3 single_1 _single_a_1)
+(concept_label-concept_in_Eng-MRS_concept eka_4 alone_3 _alone_p)
+(concept_label-concept_in_Eng-MRS_concept eka_5 sole_3 _sole_n_1)
+(concept_label-concept_in_Eng-MRS_concept eka_6 one_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_6+AyAmI_1+AreKa_1 one_1+dimesional_1+diagram_1 card+_dimensional_a_1+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_1 second_1 ord)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_3 another_4 _another_q)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_4 next_3 _next_a_1)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_4 other_3 _other_n_1)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_5 match_2 _match_n_1)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_6 equal_7 _equal_n_1)
+(concept_label-concept_in_Eng-MRS_concept xUsarA_7 duplicate_1 _duplicate_n_1)
+(concept_label-concept_in_Eng-MRS_concept se_5 by_5 _by_p_dir)
+(concept_label-concept_in_Eng-MRS_concept se_7 since_2 _since_p)
+(concept_label-concept_in_Eng-MRS_concept se_8 hatch_2 _hatch_v_1)
+(concept_label-concept_in_Eng-MRS_concept se_1 unfortunately_1 _unfortunate_a_1)
+(concept_label-concept_in_Eng-MRS_concept se_7 serve_17 _serve_v_as)
+(concept_label-concept_in_Eng-MRS_concept se_8 worship_10 _worship_v_1)
+(concept_label-concept_in_Eng-MRS_concept se_9 protect_11 _protect_v_1)
+(concept_label-concept_in_Eng-MRS_concept se_10 guard_30 _guard_v_1)
+(concept_label-concept_in_Eng-MRS_concept se_11 languish_1 _languish/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept hata_1 recede_1 _recede_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_2 withdraw_2 _withdraw_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_3 retire_2 _retire_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_4 desist_4 _desist_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_5 shrink_4 _shrink_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_1 recede_1 _recede_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_2 withdraw_2 _withdraw_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_3 retire_2 _retire_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_4 desist_4 _desist_v_1)
+(concept_label-concept_in_Eng-MRS_concept hata_5 shrink_4 _shrink_v_1)

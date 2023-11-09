@@ -1,0 +1,32 @@
+#कोई ऊँचा स्तम्भ है ।
+koI,UzcA_1,swamBa_1,hE_1-0_hE_1
+1,2,3,4
+,,,
+[m s a],,,
+3:mod,3:mod,4:k1,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept koI_5 any_1 _any_q)
+(concept_label-concept_in_Eng-MRS_concept koI_2 anybody_1 _any_q)
+(concept_label-concept_in_Eng-MRS_concept koI_3 few_6 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept koI_4 some_1 _some_q)
+(concept_label-concept_in_Eng-MRS_concept koI_7 about_32 _about_p)
+(concept_label-concept_in_Eng-MRS_concept koI_8 approximately_22 _approximate_a_1)
+(concept_label-concept_in_Eng-MRS_concept koI_9 roughly_20 _rough_a_1)
+(concept_label-concept_in_Eng-MRS_concept koI_4 some_1 _some_q)
+(concept_label-concept_in_Eng-MRS_concept koI_1 any_1 _any_q)
+(concept_label-concept_in_Eng-MRS_concept UzcA_1 high_5 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_2 lofty_5 _lofty_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_3 elevated_3 _elevate_v_cause-to)
+(concept_label-concept_in_Eng-MRS_concept UzcA_4 superior_4 _capacity_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_5 quality_3 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_6 great_20 _great_a_for)
+(concept_label-concept_in_Eng-MRS_concept swamBa_1 column_8 _column_n_of)
+(concept_label-concept_in_Eng-MRS_concept swamBa_2 pillar_9 _pillar_n_of)
+(concept_label-concept_in_Eng-MRS_concept swamBa_3 stem_14 _stem_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

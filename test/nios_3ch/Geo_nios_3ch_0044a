@@ -1,0 +1,44 @@
+#भूपर्पटी की परत का घनत्व एक समान है ।
+BUparpatI_1,parawa_1,Ganawva_1,eka_1,samAna_1,hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+,,,,,
+2:r6,3:r6,6:k1,5:card,6:mod,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept BUparpatI_1 crust_1 _crust_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_3 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_2 fold_3 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_4 lagging_1 _lag_v_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_5 film_4 _film_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_6 lamination_1 _lamination_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_8 stratum_3 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_9 metal_5 _metal_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_1 layer_12 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept parawa_3+aparaxana_1 sheet_1+erosion_8 _sheet_n_of+_erosion_n_1)
+(concept_label-concept_in_Eng-MRS_concept parawa_3 sheet_1 _sheet_n_of)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_1 density_4 _density_n_1)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_2 denseness_4 _denseness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_3 compactness_2 _compactness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept eka_1 1_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_3 single_1 _single_a_1)
+(concept_label-concept_in_Eng-MRS_concept eka_4 alone_3 _alone_p)
+(concept_label-concept_in_Eng-MRS_concept eka_5 sole_3 _sole_n_1)
+(concept_label-concept_in_Eng-MRS_concept eka_6 one_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_6+AyAmI_1+AreKa_1 one_1+dimesional_1+diagram_1 card+_dimensional_a_1+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept samAna_1 equal_5 _equal_a_to)
+(concept_label-concept_in_Eng-MRS_concept samAna_2 equivalent_4 _equivalent_a_to)
+(concept_label-concept_in_Eng-MRS_concept samAna_3 similar_5 _similar_a_to)
+(concept_label-concept_in_Eng-MRS_concept samAna_4 alike_2 _alike_a_1)
+(concept_label-concept_in_Eng-MRS_concept samAna_5 identical_8 _identical_a_to)
+(concept_label-concept_in_Eng-MRS_concept samAna_6 tantamount_1 _tantamount/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept samAna_8 even_7 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept samAna_9 level_20 _level_a_1)
+(concept_label-concept_in_Eng-MRS_concept samAna_10 common_5 _common_a_for)
+(concept_label-concept_in_Eng-MRS_concept samAna_11 general_5 _general_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

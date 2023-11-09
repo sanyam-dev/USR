@@ -1,0 +1,30 @@
+#पृथ्वी अस्थिर है ।
+pqWvI,asWira_1,hE_1-0_hE_1
+1,2,3
+loc,,
+[f s -],,
+3:k1,3:mod,0:main
+,,
+,,
+,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept pqWvI_2 ground_5 _ground_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_1 earth_9 _earth_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_3 soil_3 _soil_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_4 world_56 _world_n_of)
+(concept_label-concept_in_Eng-MRS_concept asWira_1 unstable_2 _unstable_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_2 unsteady_1 _unsteady_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_3 variable_2 _variable_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_4 vacillating_1 _vacillating/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept asWira_5 fickle_1 _fickle/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept asWira_6 wavering_3 _wavering/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept asWira_7 restless_4 _restless_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_8 troubled_2 _troubled_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_9 disturbed_9 _disturbed_a_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_10 moving_21 _move_v_1)
+(concept_label-concept_in_Eng-MRS_concept asWira_11 roving_11 _roving/VBG_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept asWira_12 distressed_42 _distressed_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

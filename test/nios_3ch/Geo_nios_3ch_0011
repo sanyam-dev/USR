@@ -1,0 +1,44 @@
+#आइए इस पाठ में हम पृथ्वी की आंतरिक शक्तियों का अध्ययन करें ।
+A,yaha,pATa_1,speaker,pqWvI,AMwarika_1,SakwiyoM_1,aXyayana_1+kareM_1
+1,2,3,4,5,6,7,8
+,,,,loc,,,
+[m s a],[m s a],,[m p u],[f s -],,,
+8:k1,3:dem,8:k7,8:k1,7:r6,7:mod,8:k2,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept A_1 come_1 _come_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_2 arrive_1 _arrive_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_3 appear_2 _appear_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_4 grow_1 _grow_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_5 develop_1 _develop_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_6 overflow_1 _overflow_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_7 issue_1 _issue_n_1)
+(concept_label-concept_in_Eng-MRS_concept A_9 enter_10 _enter_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_10 know_7 _know_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_11 return_29 _return_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_12 gain_30 _gain_v_1)
+(concept_label-concept_in_Eng-MRS_concept A_13 reach_17 _reach_v_1)
+(concept_label-concept_in_Eng-MRS_concept pATa_1 lesson_1 _lesson_n_1)
+(concept_label-concept_in_Eng-MRS_concept pATa_2 text_2 _text_n_of)
+(concept_label-concept_in_Eng-MRS_concept pATa_3 recital_1 _recital_n_1)
+(concept_label-concept_in_Eng-MRS_concept pATa_4 recitation_2 _recitation_n_1)
+(concept_label-concept_in_Eng-MRS_concept pATa_5 reading_3 _reading_n_of)
+(concept_label-concept_in_Eng-MRS_concept pATa_6 study_6 _study_n_of)
+(concept_label-concept_in_Eng-MRS_concept pATa_7 version_2 _version_n_of)
+(concept_label-concept_in_Eng-MRS_concept pATa_8 lecture_1 _lecture_n_1)
+(concept_label-concept_in_Eng-MRS_concept pATa_9 chapter_4 _chapter_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_2 ground_5 _ground_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_1 earth_9 _earth_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_3 soil_3 _soil_n_1)
+(concept_label-concept_in_Eng-MRS_concept pqWvI_4 world_56 _world_n_of)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_1 internal_4 _internal_a_1)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_2 intra_2 _intra/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept AMwarika_3 innate_2 _innate_a_1)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_1 study_1 _study_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_2 reading_5 _reading_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_1+kRewra_1 study_1+field_1 _study_n_of+_field_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_1 study_1 _study_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_2 reading_5 _reading_n_of)
+(concept_label-concept_in_Eng-MRS_concept aXyayana_1+kRewra_1 study_1+field_1 _study_n_of+_field_n_of)

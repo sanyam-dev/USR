@@ -1,0 +1,47 @@
+#वैश्विक स्तर पर भूमंडलीय संतुलन की चर्चा कीजिए ।
+vESvika_1,swara_1,BUmaMdalIya_1,saMwulana_1,carcA_1+kIjie_1-ie_1
+1,2,3,4,5
+,,,,
+,,,,
+2:mod,5:k7,4:mod,5:k2,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept vESvika_1 global_3 _global_a_1)
+(concept_label-concept_in_Eng-MRS_concept swara_1 standard_11 _standard_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_2 level_6 _level_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_3 layer_4 _layer_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_4 strata_1 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_5 stratum_2 _stratum_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_6 fold_11 _fold_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_7 grade_1 _grade_n_1)
+(concept_label-concept_in_Eng-MRS_concept swara_8 attainment_5 _attainment_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_3+ABA_3 layer_4+tint_1 _layer_n_of+_tint_n_of)
+(concept_label-concept_in_Eng-MRS_concept swara_8 status_1 _status_n_of-as)
+(concept_label-concept_in_Eng-MRS_concept BUmaMdalIya_1 global_2 _global_a_1)
+(concept_label-concept_in_Eng-MRS_concept saMwulana_1 balance_7 _balance_n_of)
+(concept_label-concept_in_Eng-MRS_concept saMwulana_2 equilibrium_1 _equilibrium_n_1)
+(concept_label-concept_in_Eng-MRS_concept saMwulana_3 equipoise_1 _equipoise/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)

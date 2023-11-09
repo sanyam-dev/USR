@@ -1,0 +1,31 @@
+#इसलिए ये स्तम्भ अपनी ऊँचाई के अनुपात में दुर्बलता मण्डल में धंसे हुए हैं ।
+isalie,yaha,swamBa_1,apanA,UzcAI_1,anupAwa_1,xurbalawA_1+maNdala_1,XaMse_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,loc,
+[- - -],[m p a],,[f s -],,,,
+8:rh,3:dem,8:k1,5:r6,6:r6,8:k7,8:k7,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept yaha_1 this_3 _this_q_dem)
+(concept_label-concept_in_Eng-MRS_concept yaha_2 that_1 _that_q_dem)
+(concept_label-concept_in_Eng-MRS_concept swamBa_1 column_8 _column_n_of)
+(concept_label-concept_in_Eng-MRS_concept swamBa_2 pillar_9 _pillar_n_of)
+(concept_label-concept_in_Eng-MRS_concept swamBa_3 stem_14 _stem_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_1 height_6 _height_n_of)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_2 stature_1 _stature/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_3 eminence_1 _eminence/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_4 altitude_1 _altitude_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_5 aloft_1 _aloft_a_1)
+(concept_label-concept_in_Eng-MRS_concept anupAwa_1 proportion_1 _proportion_n_1)
+(concept_label-concept_in_Eng-MRS_concept anupAwa_2 ratio_1 _ratio_n_of)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_1 weakness_8 _weakness_n_1)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_2 feebleness_3 _feebleness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_3 frailty_4 _frailty/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_1 weakness_8 _weakness_n_1)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_2 feebleness_3 _feebleness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xurbalawA_3 frailty_4 _frailty/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept maNdala_1 county_1 _county_n_of)
+(concept_label-concept_in_Eng-MRS_concept maNdala_2 zone_4 _zone_n_of)
+(concept_label-concept_in_Eng-MRS_concept maNdala_3 team_9 _team_n_of)

@@ -1,0 +1,44 @@
+#जबकि कम ऊँचाई वाले लक्षणों की जडें छोटी होती हैं ।
+kama_1,UzcAI_1,lakRaNa_1,jada_1,CotA_1,ho_1-wA_hE_1
+1,2,3,4,5,6
+,,,,,
+,,,,,
+2:quant,3:mod,4:r6,6:k1,6:mod,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept kama_1 little_3 _little_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_2 few_4 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept kama_3 scanty_1 _scanty_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_4 less_1 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept kama_6 small_3 _small_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_7 deficient_2 _deficient_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_11 fewest_2 _few_a_1)
+(concept_label-concept_in_Eng-MRS_concept kama_13 slight_5 _slight_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_1 height_6 _height_n_of)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_2 stature_1 _stature/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_3 eminence_1 _eminence/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_4 altitude_1 _altitude_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_5 aloft_1 _aloft_a_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_1 symptom_3 _symptom_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_2 indication_3 _indication_n_of)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_3 trait_2 _trait_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_4 sign_17 _sign_n_of)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_5 attribute_2 _attribute_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_6 features_10 _feature_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_6 feature1 _feature_n_1)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_1 small_6 _small_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_2 little_5 _little_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_5 subordinate_2 _subordinate_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_6 junior_2 _junior_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_7 insignificant_3 _insignificant_a_1)
+(concept_label-concept_in_Eng-MRS_concept CotA_8 cockerel_1 _cockerel/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept CotA_11 tight_2 _tight_a_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

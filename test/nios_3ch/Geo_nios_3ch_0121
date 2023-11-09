@@ -1,0 +1,20 @@
+#अरबी प्लेट, फिलीपीनी प्लेट, कोकोस प्लेट, नाजका प्लेट, कैरिबियन प्लेट, स्कोशिया प्लेट ।
+arabI_1,pleta,PilIpInI_1,pleta,kokosa_1,pleta,nAjakA_1,pleta,kEribiyana_1,pleta,skoSiyA,pleta
+1,2,3,4,5,6,7,8,9,10,11,12
+,,,,,,,,,,,
+,[f s -],,[f s -],,[f s -],,[f s -],,[f s -],[- - -],[f s -]
+12:pof__cn,0:main,12:mod,0:main,12:pof__cn,0:main,12:pof__cn,0:main,11:pof__cn,0:main,12:nmod__adj,0:main
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept arabI_1 Arab_2 _arab_n_1)
+(concept_label-concept_in_Eng-MRS_concept arabI_2 Arabian_1 _arabian_a_1)
+(concept_label-concept_in_Eng-MRS_concept arabI_3 taro_1 _taro_n_1)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept kokosa_1 Cocos_1 _cocos/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)

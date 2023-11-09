@@ -1,0 +1,51 @@
+#इनमें से कुछ मुख्य प्लेट इस प्रकार हैं ।
+yaha,kuCa_1,muKya_1,pleta_1,yaha,prakAra_1,hE_1-0_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+[m s a],,,,[m s a],,
+6:dem,4:quant,4:mod,7:k1,6:dem,7:k1s,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept kuCa_1 some_2 _some_q)
+(concept_label-concept_in_Eng-MRS_concept kuCa_2 few_5 little-few_a)
+(concept_label-concept_in_Eng-MRS_concept kuCa_3 something_1 _some_q)
+(concept_label-concept_in_Eng-MRS_concept kuCa_6 something_1 thing)
+(concept_label-concept_in_Eng-MRS_concept kuCa_4 money_11 _money_n_1)
+(concept_label-concept_in_Eng-MRS_concept kuCa_5 somewhat_5 _somewhat_a_1)
+(concept_label-concept_in_Eng-MRS_concept kuCa_7 little_1 _little_n_1)
+(concept_label-concept_in_Eng-MRS_concept kuCa_8 slight_12 _slight_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_1 principal_3 _principal_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_2 chief_10 _chief_n_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_4 salient_1 _salient_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_6 leading_4 _lead_v_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_7 capital_2 _capital_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_8 cardinal_1 _cardinal_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_9 high_15 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_10 supreme_6 _supreme_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_11 primary_4 _primary_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_12 original_5 _original_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_13 head_7 _head_n_of)
+(concept_label-concept_in_Eng-MRS_concept muKya_15 major_6 _major_n_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_17 foremost_5 _foremost_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_1 main_1 _main_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_3 prominent_1 _prominent_a_1)
+(concept_label-concept_in_Eng-MRS_concept muKya_1+Xyeya_4 main_1+objective_1 _main_a_1+_objective_n_1)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_1 kind_8 _kind_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_2 quality_6 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_3 mode_5 _mode_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_4 manner_5 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_5 way_8 _way_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_6 method_9 _method_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_7 type_6 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_8 pattern_3 _pattern_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_9 variety_7 _variety_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_10 sort_1 _sort_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_11 compass_18 _compass_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_12 form_61 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

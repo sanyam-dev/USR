@@ -1,0 +1,51 @@
+#प्लेट सीमान्तों पर होने वाली क्रियाओं की चर्चा कीजिए ।
+pleta_1+sImAnwoM_1,ho_1,kriyA_1,carcA_1+kIjie_1-ie_1
+1,2,3,4
+,,,
+,,,
+2:k7,3:mod,4:k2,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept kriyA_1 action_6 _action_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_2 act_3 _act_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_3 function_5 _function_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_4 verb_1 _verb_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_5 duty_2 _duty_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_6 oath_1 _oath_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_7 work_6 _work_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_8 labour_2 _labor_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_9 process_5 _process_n_of)
+(concept_label-concept_in_Eng-MRS_concept kriyA_10 procedure_10 _procedure_n_1)
+(concept_label-concept_in_Eng-MRS_concept kriyA_10 activity_1 _activity_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)

@@ -1,0 +1,35 @@
+#इन उच्चावचों की ऊँचाई में बहुत अन्तर होता है ।
+yaha,uccAvacoM_1,UzcAI_1,bahuwa_1,anwara_1,ho_1-wA_hE_1
+1,2,3,4,5,6
+,,,,,
+[m p a],,,,,
+2:dem,3:r6,6:k7,5:quant,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept UzcAI_1 height_6 _height_n_of)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_2 stature_1 _stature/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_3 eminence_1 _eminence/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_4 altitude_1 _altitude_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcAI_5 aloft_1 _aloft_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_1 much_6 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_2 many_5 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_3 abundant_7 _abundant_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_4 plenteous_1 _plenteous_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_5 plentiful_3 _plentiful_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_6 too_1 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_7 very_1 _very_x_deg)
+(concept_label-concept_in_Eng-MRS_concept anwara_1 break_7 _break_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_2 distinction_8 _distinction_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_3 gap_4 _gap_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_4 screen_12 _screen_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_5 difference_6 _difference_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_6 distance_11 _distance_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_7 mind_30 _mind_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

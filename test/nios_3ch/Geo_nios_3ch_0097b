@@ -1,0 +1,44 @@
+#और उस समय मैग्मा के घनीभवन में दर्ज हो जाते हैं ।
+vaha,samaya_1,mEgmA,GanIBavana_1,xarja_1+ho_1-wA_hE_1
+1,2,3,4,5
+,,per,,
+[m s a],,[- - -],,
+2:dem,5:k7t,4:r6,5:k7,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept samaya_1 time_8 _time_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_2 period_8 _period_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_3 times_2 _time_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_4 timings_1 _timing_n_1)
+(concept_label-concept_in_Eng-MRS_concept samaya_5 occasion_4 _occasion_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_6 leisure_4 _leisure_n_1)
+(concept_label-concept_in_Eng-MRS_concept samaya_7 convention_7 _convention_n_1)
+(concept_label-concept_in_Eng-MRS_concept samaya_8 opportunity_17 _opportunity_n_1)
+(concept_label-concept_in_Eng-MRS_concept samaya_9 term_6 _term_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_10 season_6 season)
+(concept_label-concept_in_Eng-MRS_concept samaya_11 age_14 _age_n_1)
+(concept_label-concept_in_Eng-MRS_concept samaya_12 date_8 _date_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_13 dates_3 _date_n_of)
+(concept_label-concept_in_Eng-MRS_concept samaya_14 canto_1 _canto/FW_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept samaya_16 chance_16 _chance_n_of)
+(concept_label-concept_in_Eng-MRS_concept GanIBavana_1 solidification_1 _solidification/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept xarja_1 entered_6 _enter_v_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_2 insertion_1 _insertion_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarja_3 entry_4 _entry_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_4 inclusion_2 _inclusion_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_5 record_5 _record_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarja_6 registration_1 _registration_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarja_1 entered_6 _enter_v_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_2 insertion_1 _insertion_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarja_3 entry_4 _entry_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_4 inclusion_2 _inclusion_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarja_5 record_5 _record_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarja_6 registration_1 _registration_n_of)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

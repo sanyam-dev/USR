@@ -1,0 +1,40 @@
+#और मैदान समतल होते हैं ।
+mExAna_1,samawala_1+ho_1-wA_hE_1
+1,2
+,
+,
+2:k1,0:main
+,
+,
+,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept mExAna_1 field_3 _field_n_of)
+(concept_label-concept_in_Eng-MRS_concept mExAna_2 flat_8 _flat_n_1)
+(concept_label-concept_in_Eng-MRS_concept mExAna_3 raceground_1 _raceground/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept mExAna_4 playingfield_1 _playingfield/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept mExAna_5 plain_5 _plain_n_1)
+(concept_label-concept_in_Eng-MRS_concept mExAna_6 parade_2 _parade_n_of)
+(concept_label-concept_in_Eng-MRS_concept mExAna_7 battlefield_25 _battlefield_n_1)
+(concept_label-concept_in_Eng-MRS_concept mExAna_5+kRewra_5 plain_5+area_2 _plain_n_1+_area_n_of)
+(concept_label-concept_in_Eng-MRS_concept samawala_1 level_4 _level_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_2 plain_2 _plain_a_to)
+(concept_label-concept_in_Eng-MRS_concept samawala_3 flat_6 _flat_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_4 even_5 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_5 plane_1 _plane_n_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_3+GAtiyA_1 flat_6+valley_9 _flat_a_1+valley_n_of)
+(concept_label-concept_in_Eng-MRS_concept samawala_1+BUmi_1 level_4+land_6 _level_a_1+_land_n_of)
+(concept_label-concept_in_Eng-MRS_concept samawala_3+BUBAga_3 flat_6+terrain_1 _flat_a_1+_terrain_n_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_1 level_4 _level_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_2 plain_2 _plain_a_to)
+(concept_label-concept_in_Eng-MRS_concept samawala_3 flat_6 _flat_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_4 even_5 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_5 plane_1 _plane_n_1)
+(concept_label-concept_in_Eng-MRS_concept samawala_3+GAtiyA_1 flat_6+valley_9 _flat_a_1+valley_n_of)
+(concept_label-concept_in_Eng-MRS_concept samawala_1+BUmi_1 level_4+land_6 _level_a_1+_land_n_of)
+(concept_label-concept_in_Eng-MRS_concept samawala_3+BUBAga_3 flat_6+terrain_1 _flat_a_1+_terrain_n_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

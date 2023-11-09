@@ -1,0 +1,40 @@
+#इसी कारणवश इनकी जडें विकसित हो गई है ।
+isI,kAraNavaSa_1,yaha,jada_1,vikasiwa_1+ho_1-yA_gayA_hE_1
+1,2,3,4,5
+,,,,
+[- - -],,[f p a],,
+2:dem,5:rh,4:r6,5:k1,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept kAraNavaSa_1 hence_8 _hence_a_1)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_2 opened_1 _open_v_cause)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_3 grown_1 _grow_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4 developed_2 _develop_v_cause)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_5 evolved_1 _evolve_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_6 blooming_10 _bloom_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_6 budding_1 _bud_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_7 activity_25 _activity_n_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_1 development_1 _development_n_of)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_1+yAwAyAwa_1 transportation_1+development_1 _transportational/JJ_u_unknown+_development_n_of)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4+arWavyavasWA_1 developed_2+economy_1 _develop_v_cause+_economy_n_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4+xeSa_1 developed_2+country_1 _develop_v_cause+_country_n_of)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_2 opened_1 _open_v_cause)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_3 grown_1 _grow_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4 developed_2 _develop_v_cause)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_5 evolved_1 _evolve_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_6 blooming_10 _bloom_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_6 budding_1 _bud_v_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_7 activity_25 _activity_n_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_1 development_1 _development_n_of)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_1+yAwAyAwa_1 transportation_1+development_1 _transportational/JJ_u_unknown+_development_n_of)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4+arWavyavasWA_1 developed_2+economy_1 _develop_v_cause+_economy_n_1)
+(concept_label-concept_in_Eng-MRS_concept vikasiwa_4+xeSa_1 developed_2+country_1 _develop_v_cause+_country_n_of)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

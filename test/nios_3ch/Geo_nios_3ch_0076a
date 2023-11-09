@@ -1,0 +1,58 @@
+#एक निश्चित पेटी में नियमित भूकम्प और ज्वालामुखी उद्भेदन असंतुलन को दर्शाते हैं ।
+eka_1,niSciwa_1,petI_1,niyamiwa_1,BUkampa_1,jvAlAmuKI_1+asaMwulana_1,uxBexana_1,xarSA_1-wA_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+3:card,3:mod,8:k7,5:mod,8:k2,8:k2,6:pof__cn,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept eka_1 1_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_3 single_1 _single_a_1)
+(concept_label-concept_in_Eng-MRS_concept eka_4 alone_3 _alone_p)
+(concept_label-concept_in_Eng-MRS_concept eka_5 sole_3 _sole_n_1)
+(concept_label-concept_in_Eng-MRS_concept eka_6 one_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_6+AyAmI_1+AreKa_1 one_1+dimesional_1+diagram_1 card+_dimensional_a_1+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_1 definite_2 _definite_a_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_2 certain_4 _certain_a_of)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_3 sure_4 _sure_a_of)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_4 ascertained_1 _ascertain_v_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_5 positive_2 _positive_a_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_6 definite_3 _definite_a_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_7 determined_8 _determined_a_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_8 fixed_9 _fixed_a_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_9 settled_11 _settle_v_1)
+(concept_label-concept_in_Eng-MRS_concept niSciwa_11 decided_5 _decide_v_1)
+(concept_label-concept_in_Eng-MRS_concept petI_1 casket_1 _casket/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept petI_2 chest_3 _chest_n_1)
+(concept_label-concept_in_Eng-MRS_concept petI_3 belt_2 _belt_n_1)
+(concept_label-concept_in_Eng-MRS_concept petI_4 girdle_3 _girdle/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept petI_5 box_10 _box_n_of)
+(concept_label-concept_in_Eng-MRS_concept petI_6 girth_3 _girth/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept petI_7 track_9 _track_n_1)
+(concept_label-concept_in_Eng-MRS_concept petI_8 case_9 _case_n_of)
+(concept_label-concept_in_Eng-MRS_concept petI_9 bundle_7 _bundle_n_1)
+(concept_label-concept_in_Eng-MRS_concept petI_10 trunk_10 _trunk_n_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_1 regular_2 _regular_a_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_2 regulated_1 _regulate_v_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_3 regularised_1 _regularised/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_4 restricted_2 _restricted_a_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_5 limited_3 _limit_v_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_7 fixed_7 _fixed_a_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_8 prescribed_1 _prescribe_v_1)
+(concept_label-concept_in_Eng-MRS_concept niyamiwa_2+vAnikI_1 regulated_1+forestry_1 _regulate_v_1+_forestry_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUkampa_1 earthquake_4 _earthquake_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUkampa_2 seism_4 _seism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_1 volcano_1 _volcano_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_2+visPota_4 volcanic_1+eruption_3 _volcanic_a_1+_eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_1 volcano_1 _volcano_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_2+visPota_4 volcanic_1+eruption_3 _volcanic_a_1+_eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept asaMwulana_1 imbalance_1 _imbalance/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept asaMwulana_2 disequilibrium_1 _disequilibrium/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept uxBexana_1 eruption_1 _eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept uxBexana_2 type_5 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept xarSA_1 show_5 _show_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarSA_2 display_1 _display_n_of)
+(concept_label-concept_in_Eng-MRS_concept xarSA_3 exhibit_1 _exhibit_n_1)
+(concept_label-concept_in_Eng-MRS_concept xarSA_4 appear_13 _appear_v_1)

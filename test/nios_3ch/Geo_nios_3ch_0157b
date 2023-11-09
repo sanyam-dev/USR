@@ -1,0 +1,39 @@
+#और न ही भूपर्पटी नष्ट होती है ।
+na_1,hI_1,BUparpatI_1,naRta_1+ho_1-wA_hE_1
+1,2,3,4
+,,,
+,,,
+4:krvn,1:lwg__rp,4:k1,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept hI_1 only_6 _only_a_1)
+(concept_label-concept_in_Eng-MRS_concept hI_2 heart_27 _heart_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUparpatI_1 crust_1 _crust_n_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_1 destroyed_5 _destroy_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_3 annihilated_1 _annihilated/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept naRta_4 destructed_1 _destructed/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept naRta_5 ruined_5 _ruin_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_5 squandered_3 _squander_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_7 doomed_1 _doom_v_to)
+(concept_label-concept_in_Eng-MRS_concept naRta_9 failure_2 _failure_n_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_11 immoral_2 _immoral_a_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_12 lost_3 _lose_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_14 vanished_7 _vanish_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_1 destroyed_5 _destroy_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_3 annihilated_1 _annihilated/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept naRta_4 destructed_1 _destructed/VBN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept naRta_5 ruined_5 _ruin_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_5 squandered_3 _squander_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_7 doomed_1 _doom_v_to)
+(concept_label-concept_in_Eng-MRS_concept naRta_9 failure_2 _failure_n_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_11 immoral_2 _immoral_a_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_12 lost_3 _lose_v_1)
+(concept_label-concept_in_Eng-MRS_concept naRta_14 vanished_7 _vanish_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

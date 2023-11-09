@@ -1,0 +1,54 @@
+#इस प्रकार की सीमाओं पर भूकंप और ज्वालामुखी उद्भेदन प्रमुख हैं ।
+yaha,prakAra_1,sImA_1,BUkaMpa_1,jvAlAmuKI_1+uxBexana_1,pramuKa_1,hE_1-0_hE_1
+1,2,3,4,5,6,7
+,,,,,,
+[m s a],,,,,,
+2:dem,3:r6,7:k7,7:k1,7:k1,7:mod,0:main
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept prakAra_1 kind_8 _kind_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_2 quality_6 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_3 mode_5 _mode_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_4 manner_5 _manner_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_5 way_8 _way_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_6 method_9 _method_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_7 type_6 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_8 pattern_3 _pattern_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_9 variety_7 _variety_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept prakAra_10 sort_1 _sort_n_of)
+(concept_label-concept_in_Eng-MRS_concept prakAra_11 compass_18 _compass_n_1)
+(concept_label-concept_in_Eng-MRS_concept prakAra_12 form_61 _form_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_1 border_9 _border_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_2 boundary_9 _boundary_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_3 bounds_1 _bound_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_4 frontier_3 _frontier_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_5 range_14 _range_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_6 limit_9 _limit_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_7 extent_4 _extent_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_8 verge_2 _verge_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_9 lead_4 _lead_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUkaMpa_1 earthquake_2 _earthquake_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUkaMpa_2 seism_1 _seism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept BUkaMpa_1+niyaMwraNa_6+keMxra_1 earthquake_2+monitoring+centre_5 _earthquake_n_1+_monitor_v_1+_center_n_of)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_1 volcano_1 _volcano_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_2+visPota_4 volcanic_1+eruption_3 _volcanic_a_1+_eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_1 volcano_1 _volcano_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_2+visPota_4 volcanic_1+eruption_3 _volcanic_a_1+_eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept uxBexana_1 eruption_1 _eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept uxBexana_2 type_5 _type_n_of-n)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_1 chief_8 _chief_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_2 foremost_9 _foremost_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_3 leading_3 _lead_v_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_4 outstanding_3 _outstanding_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_5 principal_1 _principal_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_6 prominent_6 _prominent_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_7 dominant_1 _dominant_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_8 head_27 _head_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_9 cardinal_2 _cardinal_a_1)
+(concept_label-concept_in_Eng-MRS_concept pramuKa_10 major_1 _major_a_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

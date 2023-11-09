@@ -1,0 +1,39 @@
+#प्लेट सीमाएँ अत्यन्त महत्वपूर्ण और उल्लेखनीय संरचनात्मक लक्षण हैं ।
+pleta_1,sImA_1,awyanwa_1,mahawvapUrNa_1,ulleKanIya_1,saMracanAwmaka_1,lakRaNa_1,hE_1-0_hE_1
+1,2,3,4,5,6,7,8
+,,,,,,,
+,,,,,,,
+8:k1,8:k1,4:intf,7:mod,7:mod,7:mod,8:k1s,0:main
+,,,,,,,
+,,,,,,,
+,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_1 border_9 _border_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_2 boundary_9 _boundary_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_3 bounds_1 _bound_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_4 frontier_3 _frontier_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_5 range_14 _range_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_6 limit_9 _limit_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_7 extent_4 _extent_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_8 verge_2 _verge_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_9 lead_4 _lead_n_1)
+(concept_label-concept_in_Eng-MRS_concept awyanwa_1 greatly_1 _great_a_1)
+(concept_label-concept_in_Eng-MRS_concept awyanwa_2 utmost_6 _utmost_n_1)
+(concept_label-concept_in_Eng-MRS_concept awyanwa_3 much_10 _much_a_1)
+(concept_label-concept_in_Eng-MRS_concept awyanwa_4 much_44 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept mahawvapUrNa_1 important_6 _important_a_for)
+(concept_label-concept_in_Eng-MRS_concept mahawvapUrNa_2 valuable_3 _valuable_a_to-for)
+(concept_label-concept_in_Eng-MRS_concept ulleKanIya_1 mentionable_1 _mentionable/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept saMracanAwmaka_1 structural_1 _structural_a_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_1 symptom_3 _symptom_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_2 indication_3 _indication_n_of)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_3 trait_2 _trait_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_4 sign_17 _sign_n_of)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_5 attribute_2 _attribute_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_6 features_10 _feature_n_1)
+(concept_label-concept_in_Eng-MRS_concept lakRaNa_6 feature1 _feature_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

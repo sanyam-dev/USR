@@ -1,0 +1,50 @@
+#भूकम्प और ज्वालामुखी के वितरण का प्लेट सीमाओं के संदर्भ में वर्णन कीजिए ।
+BUkampa_1,jvAlAmuKI_1,viwaraNa_1,pleta_1+sImA_1,saMxarBa_1,varNana_1+kIjie_1-ie_1
+1,2,3,4,5,6
+,,,,,
+,,,,,
+5:r6,3:r6,4:r6,5:r6,6:k7,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept BUkampa_1 earthquake_4 _earthquake_n_1)
+(concept_label-concept_in_Eng-MRS_concept BUkampa_2 seism_4 _seism/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_1 volcano_1 _volcano_n_1)
+(concept_label-concept_in_Eng-MRS_concept jvAlAmuKI_2+visPota_4 volcanic_1+eruption_3 _volcanic_a_1+_eruption_n_1)
+(concept_label-concept_in_Eng-MRS_concept viwaraNa_1 distribution_6 _distribution_n_1)
+(concept_label-concept_in_Eng-MRS_concept viwaraNa_2 disbursement_2 _disbursement/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept viwaraNa_3 delivery_6 _delivery_n_of)
+(concept_label-concept_in_Eng-MRS_concept viwaraNa_4 service_5 _service_n_1)
+(concept_label-concept_in_Eng-MRS_concept viwaraNa_5 distributing_1 _distribute_v_to)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pleta_1 plate_6 _plate_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_1 border_9 _border_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_2 boundary_9 _boundary_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_3 bounds_1 _bound_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_4 frontier_3 _frontier_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_5 range_14 _range_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_6 limit_9 _limit_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_7 extent_4 _extent_n_of)
+(concept_label-concept_in_Eng-MRS_concept sImA_8 verge_2 _verge_n_1)
+(concept_label-concept_in_Eng-MRS_concept sImA_9 lead_4 _lead_n_1)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_1 reference_4 _reference_n_1)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_2 context_4 _context_n_1)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_3 allusion_1 _allusion_n_1)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_4 theme_4 _theme_n_of)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_5 subject_19 _subject_n_of)
+(concept_label-concept_in_Eng-MRS_concept saMxarBa_6 topic_8 _topic_n_of)
+(concept_label-concept_in_Eng-MRS_concept varNana_1 description_4 _description_n_of)
+(concept_label-concept_in_Eng-MRS_concept varNana_2 narration_1 _narration/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept varNana_3 commentary_3 _commentary_n_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_4 descriptive_1 _descriptive_a_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_5 delineation_1 _delineation_n_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_6 depiction_1 _depiction/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept varNana_7 field_47 _field_n_of)
+(concept_label-concept_in_Eng-MRS_concept varNana_1 description_4 _description_n_of)
+(concept_label-concept_in_Eng-MRS_concept varNana_2 narration_1 _narration/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept varNana_3 commentary_3 _commentary_n_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_4 descriptive_1 _descriptive_a_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_5 delineation_1 _delineation_n_1)
+(concept_label-concept_in_Eng-MRS_concept varNana_6 depiction_1 _depiction/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept varNana_7 field_47 _field_n_of)

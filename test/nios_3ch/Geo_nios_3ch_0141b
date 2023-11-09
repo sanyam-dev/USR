@@ -1,0 +1,24 @@
+#और इनके खिसकने की दिशा सापेक्षिक है ।
+yaha,Kisaka_1,xiSA_1,sApekRika_1,hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+[m p a],,,,
+2:k1,3:r6,5:k1,5:mod,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept Kisaka_1 shift_10 _shift_n_1)
+(concept_label-concept_in_Eng-MRS_concept Kisaka_2 pushing_9 _push_v_1)
+(concept_label-concept_in_Eng-MRS_concept xiSA_1 direction_6 _direction_n_of)
+(concept_label-concept_in_Eng-MRS_concept xiSA_2 line_3 _line_n_of)
+(concept_label-concept_in_Eng-MRS_concept xiSA_3 course_2 _course_n_of)
+(concept_label-concept_in_Eng-MRS_concept xiSA_4 quarter_7 _quarter_n_of)
+(concept_label-concept_in_Eng-MRS_concept xiSA_5 region_4 _region_n_of)
+(concept_label-concept_in_Eng-MRS_concept xiSA_6 side_30 _side_n_1)
+(concept_label-concept_in_Eng-MRS_concept xiSA_1+nirXAraNa_5 direction_6+determination_5 _direction_n_of+_determination_n_of)
+(concept_label-concept_in_Eng-MRS_concept sApekRika_1 relatively_3 _relatively_x_deg)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

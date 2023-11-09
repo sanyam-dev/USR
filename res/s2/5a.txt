@@ -1,0 +1,13 @@
+#पिछले साल नोटबन्दी किया गय
+piCalA_1,sAla_1,notabancI_1,kara_1-yA_gayA_1
+1,2,3,4
+,,,
+,sg,sg,
+2:mod,4:k7t,4:k2,0:main
+,,,
+,,,
+,,,
+affirmative
+
+
+

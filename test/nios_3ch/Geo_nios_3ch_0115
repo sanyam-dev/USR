@@ -1,0 +1,43 @@
+#स्थलमंडल कई खंडों में विभाजित है ।
+sWalamaMdala,kaI_1,KaMda_1,viBAjiwa_1,hE_1-0_hE_1
+1,2,3,4,5
+,,,,
+[- - -],,,,
+5:k1,3:quant,5:k7,5:mod,0:main
+,,,,
+,,,,
+,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept sWalamaMdala_1 lithosphere_1 _lithosphere/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kaI_1 several_6 _several_a_1)
+(concept_label-concept_in_Eng-MRS_concept kaI_2 several_7 _several_a_1)
+(concept_label-concept_in_Eng-MRS_concept kaI_3 various_9 _various_a_1)
+(concept_label-concept_in_Eng-MRS_concept kaI_4 diverse_3 _diverse_a_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_10 clause_2 _clause_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_11 block_3 _block_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_12 segment_1 _segment_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_13 canto_1 _canto/FW_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept KaMda_14 volume_2 _volume_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_15 factor_3 _factor_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_16 region_4 _region_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_17 division_4 _division_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_1 portion_5 _portion_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_2 part_5 _part_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_3 fragment_3 _fragment_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_4 piece_4 _piece_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_5 bit_1 _bit_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_6 scrap_2 _scrap_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_7 lump_1 _lump_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_8 chunk_1 _chunk_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_9 section_2 _section_n_of)
+(concept_label-concept_in_Eng-MRS_concept KaMda_19 chapter_1 _chapter_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_20 fascicule_1 _fascicule/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept KaMda_21 component_5 _component_n_1)
+(concept_label-concept_in_Eng-MRS_concept KaMda_22 zone_1 _zone_n_of)
+(concept_label-concept_in_Eng-MRS_concept viBAjiwa_1 divided_2 _divide_v_cause)
+(concept_label-concept_in_Eng-MRS_concept viBAjiwa_2 partitioned_2 _partition_v_cause)
+(concept_label-concept_in_Eng-MRS_concept viBAjiwa_1+vqwwa_1+AreKa_1 divided_2+circle_9+diagram_1 _divide_v_cause+_circle_n_of+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

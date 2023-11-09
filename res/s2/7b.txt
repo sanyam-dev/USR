@@ -1,0 +1,10 @@
+#या फिर गीता फल लाएगी
+gIwA,Pala_1,lA_1-gA_1
+1,2,3
+female per,,
+sg,sg,
+3:k1,3:k2,0:main
+,,7a.4:anyawra
+,,
+,,
+affirmative

@@ -1,0 +1,19 @@
+#आपने क्या सीखा ।
+addressee,kyA_1,sIKa_1-yA_1
+1,2,3
+,,
+[m s m],,
+3:k1,3:krvn,0:main
+,,
+,,
+,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept sIKa_1 teaching_9 _teaching_n_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_2 advice_9 _advice_n_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_3 moral_4 _moral_n_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_4 spit_3 _spit_n_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_5 skewer_2 _skewer/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept sIKa_6 learn_1 _learn_v_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_7 lesson_4 _lesson_n_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_8 learn_2 _learn_v_1)
+(concept_label-concept_in_Eng-MRS_concept sIKa_9 instruction_14 _instruction_n_of)

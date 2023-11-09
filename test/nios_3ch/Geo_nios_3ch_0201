@@ -1,0 +1,44 @@
+#महाद्वीपीय विस्थापन के प्रमाणों की चर्चा कीजिए ।
+mahAxvIpIya_1,visWApana_1,pramANa_1,carcA_1+kIjie_1-ie_1
+1,2,3,4
+,,,
+,,,
+2:mod,3:r6,4:k2,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept mahAxvIpIya_1 continental_1 _continental_a_1)
+(concept_label-concept_in_Eng-MRS_concept visWApana_1 displacement_1 _displacement_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_1 proof_7 _proof_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_1+pawra_1 certificate_4 _certificate_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_2 measure_17 _measure_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_3 standard_8 _standard_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_4 authority_16 _authority_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_5 precedent_2 _precedent_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_6 evidence_5 _evidence_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_7 verification_4 _verification_n_of)
+(concept_label-concept_in_Eng-MRS_concept pramANa_8 warrant_1 _warrant_n_1)
+(concept_label-concept_in_Eng-MRS_concept pramANa_9 evidence_6 _evidence_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_1 mention_2 _mention_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_2 discussion_2 _discussion_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_3 rumour_3 _rumor_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_4 talk_10 _talk_n_of-on)
+(concept_label-concept_in_Eng-MRS_concept carcA_5 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept carcA_6 reflection_3 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_7 argument_3 _argument_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_8 anointing_4 _anointing/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_9 conversation_15 _conversation_n_1)
+(concept_label-concept_in_Eng-MRS_concept carcA_10 hearsay_10 _hearsay/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept carcA_11 reference_10 _reference_n_1)

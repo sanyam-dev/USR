@@ -1,0 +1,44 @@
+#उन्होंने कहा कि सभी स्तंभों के अनुसार उनकी जडें होंगी ।
+vaha,kaha_1-yA_1,saBI_1,swaMBa_1,vaha,jada_1,ho_1
+1,2,3,4,5,6,7
+,,,,,,
+[f p a],,,,[f p a],,
+6:r6,0:main,4:quant,7:k7a,6:r6,7:k1,2:vk2
+,,,,,,
+,,,,,,
+,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept kaha_2 state_3 _state_n_of)
+(concept_label-concept_in_Eng-MRS_concept kaha_1 call_20 _call_v_name)
+(concept_label-concept_in_Eng-MRS_concept kaha_3 tell_1 _tell_v_1)
+(concept_label-concept_in_Eng-MRS_concept kaha_4 utter_1 _utter_a_1)
+(concept_label-concept_in_Eng-MRS_concept kaha_5 say_3 _say_v_1)
+(concept_label-concept_in_Eng-MRS_concept kaha_6 relate_1 _relate_v_to)
+(concept_label-concept_in_Eng-MRS_concept kaha_7 rebuke_3 _rebuke/VB_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept kaha_8 speak_13 _speak_v_to)
+(concept_label-concept_in_Eng-MRS_concept kaha_9 call_18 _call_v_1)
+(concept_label-concept_in_Eng-MRS_concept kaha_10 called_2 _call_v_1)
+(concept_label-concept_in_Eng-MRS_concept kaha_2 call_1 _call_n_1)
+(concept_label-concept_in_Eng-MRS_concept saBI_1 all_1 _all_q)
+(concept_label-concept_in_Eng-MRS_concept saBI_2 entire_15 _entire_a_1)
+(concept_label-concept_in_Eng-MRS_concept saBI_3 total_25 _total_a_1)
+(concept_label-concept_in_Eng-MRS_concept saBI_4 full_25 _full_a_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_1 column_3 _column_n_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_2 pillar_8 _pillar_n_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_3 stem_3 _stem_n_1)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_4 stupefaction_3 _stupefaction/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_5 torpor_3 _torpor/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_6 column_5 _column_n_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_7 post_16 _post_n_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_8 support_67 _support_n_of)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_9 paralysis_4 _paralysis/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_10 transfixation_1 _transfixation/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_11 numbness_8 _numbness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept swaMBa_1+AreKa_1 column_3+diagram_1 _column_n_of+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)

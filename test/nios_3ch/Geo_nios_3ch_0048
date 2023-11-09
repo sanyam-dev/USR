@@ -1,0 +1,33 @@
+#सभी टुकडे एक जैसे घनत्व के हैं ।
+saBI_1,tukadA_1,eka_1,jEsA_1,Ganawva_1,hE_1-0_hE_1
+1,2,3,4,5,6
+,,,,,
+,,,,,
+2:quant,6:k1,5:card,5:mod,6:k1,0:main
+,,,,,
+,,,,,
+,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept saBI_1 all_1 _all_q)
+(concept_label-concept_in_Eng-MRS_concept saBI_2 entire_15 _entire_a_1)
+(concept_label-concept_in_Eng-MRS_concept saBI_3 total_25 _total_a_1)
+(concept_label-concept_in_Eng-MRS_concept saBI_4 full_25 _full_a_of)
+(concept_label-concept_in_Eng-MRS_concept tukadA_1 piece_16 _piece_n_of)
+(concept_label-concept_in_Eng-MRS_concept eka_1 1_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_3 single_1 _single_a_1)
+(concept_label-concept_in_Eng-MRS_concept eka_4 alone_3 _alone_p)
+(concept_label-concept_in_Eng-MRS_concept eka_5 sole_3 _sole_n_1)
+(concept_label-concept_in_Eng-MRS_concept eka_6 one_1 card)
+(concept_label-concept_in_Eng-MRS_concept eka_6+AyAmI_1+AreKa_1 one_1+dimesional_1+diagram_1 card+_dimensional_a_1+_diagram_n_1)
+(concept_label-concept_in_Eng-MRS_concept jEsA_3 similar_6 _similar_a_to)
+(concept_label-concept_in_Eng-MRS_concept jEsA_2 as-about_1 _as_p+_about_x_deg)
+(concept_label-concept_in_Eng-MRS_concept jEsA_1 like_17 _like_p)
+(concept_label-concept_in_Eng-MRS_concept jEsA_4 for-example_1 _for_p+_example_n_of)
+(concept_label-concept_in_Eng-MRS_concept jEsA_1 such-as_1 _such+as_p)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_1 density_4 _density_n_1)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_2 denseness_4 _denseness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept Ganawva_3 compactness_2 _compactness/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept hE_1 state_copula_1 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept hE_2 have_1 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_3 have_2 _have_v_1)
+(concept_label-concept_in_Eng-MRS_concept hE_5 state_copula_1 _be_v_there)

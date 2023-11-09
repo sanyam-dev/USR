@@ -1,0 +1,31 @@
+#एअरी और प्रैट के विचारों में अन्तर ।
+earI,prEta,vicAra_1,anwara_1
+1,2,3,4
+org,per,,
+[- - -],[- - -],,
+3:r6,3:r6,4:k7,0:main
+,,,
+,,,
+,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept vicAra_10 consideration_3 _consideration_n_of)
+(concept_label-concept_in_Eng-MRS_concept vicAra_11 trial_4 _trial_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_12 think_2 _think_v_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_1 thought_4 _thought_n_of)
+(concept_label-concept_in_Eng-MRS_concept vicAra_2 thinking_3 _thinking_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_3 idea_7 _idea_n_of)
+(concept_label-concept_in_Eng-MRS_concept vicAra_4 view_14 _view_n_of)
+(concept_label-concept_in_Eng-MRS_concept vicAra_5 pondering_1 _ponder_v_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_6 deliberation_4 _deliberation_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_7 reflection_11 _reflection_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_8 contemplation_5 _contemplation/NN_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept vicAra_9 reasoning_3 _reasoning_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_14 viewpoint_5 _viewpoint_n_1)
+(concept_label-concept_in_Eng-MRS_concept vicAra_15 opinion_15 _opinion_n_of)
+(concept_label-concept_in_Eng-MRS_concept anwara_1 break_7 _break_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_2 distinction_8 _distinction_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_3 gap_4 _gap_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_4 screen_12 _screen_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_5 difference_6 _difference_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_6 distance_11 _distance_n_1)
+(concept_label-concept_in_Eng-MRS_concept anwara_7 mind_30 _mind_n_1)

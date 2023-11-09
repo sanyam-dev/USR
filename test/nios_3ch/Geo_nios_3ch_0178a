@@ -1,0 +1,58 @@
+#विशाल और ऊँचे पर्वतों की जडें भी नीचे बहुत बडी होंगी ।
+viSAla_1,UzcA_1,parvawa_1,jada_1,BI_1,nIcA_1,bahuwa_1,badA_1,ho_1-gA_1
+1,2,3,4,5,6,7,8,9
+,,,,,,,,
+,,,,,,,,
+3:mod,3:mod,4:r6,9:k1,4:lwg__rp,9:k7,8:intf,9:mod,0:main
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+affirmative
+(concept_label-concept_in_Eng-MRS_concept viSAla_10 colossal_4 _colossal/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept viSAla_1 huge_9 _huge_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_2 large_8 _large_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_3 big_7 _big_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_4 spacious_4 _spacious_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_5 grand_3 _grand_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_6 extensive_3 _extensive_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_7 vast_3 _vast_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_8 great_8 _great_a_for)
+(concept_label-concept_in_Eng-MRS_concept viSAla_9 gigantic_7 _gigantic_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_11 broad_6 _broad_a_1)
+(concept_label-concept_in_Eng-MRS_concept viSAla_12 large_19 _large_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_1 high_5 _high_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_2 lofty_5 _lofty_a_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_3 elevated_3 _elevate_v_cause-to)
+(concept_label-concept_in_Eng-MRS_concept UzcA_4 superior_4 _capacity_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_5 quality_3 _quality_n_1)
+(concept_label-concept_in_Eng-MRS_concept UzcA_6 great_20 _great_a_for)
+(concept_label-concept_in_Eng-MRS_concept parvawa_1 mountain_3 _mountain_n_1)
+(concept_label-concept_in_Eng-MRS_concept parvawa_2 hill_2 _hill_n_1)
+(concept_label-concept_in_Eng-MRS_concept parvawa_3 mountaineering_1 _mountaineering_n_1)
+(concept_label-concept_in_Eng-MRS_concept parvawa_2+nagara_6 hill_2+station_8 _hill_n_1+_station_n_1)
+(concept_label-concept_in_Eng-MRS_concept parvawa_1+SqMKalA_6 mountain_3+range_1 _mountain_n_1+range_1)
+(concept_label-concept_in_Eng-MRS_concept jada_1 inorganic_3 _inorganic_a_1)
+(concept_label-concept_in_Eng-MRS_concept BI_1 also_3 _also_a_1)
+(concept_label-concept_in_Eng-MRS_concept BI_2 too_2 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept BI_3 even_7 _even_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_1 mean_10 _mean_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_3 vile_10 _vile/JJ_u_unknown)
+(concept_label-concept_in_Eng-MRS_concept nIcA_4 low_8 _low_a_on)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 deep_8 _deep_a_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_5 base_17 _base_n_1)
+(concept_label-concept_in_Eng-MRS_concept nIcA_6 inferior_8 _inferior_n_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_1 much_6 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_2 many_5 much-many_a)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_3 abundant_7 _abundant_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_4 plenteous_1 _plenteous_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_5 plentiful_3 _plentiful_a_1)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_6 too_1 _too_a_also)
+(concept_label-concept_in_Eng-MRS_concept bahuwa_7 very_1 _very_x_deg)
+(concept_label-concept_in_Eng-MRS_concept badA_1 elder_3 _elder_n_1)
+(concept_label-concept_in_Eng-MRS_concept badA_2 huge_11 _huge_a_1)
+(concept_label-concept_in_Eng-MRS_concept ho_1 be_2 _be_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_2 exist_7 _exist_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_3 elapse_9 _elapse_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_4 pass_16 _pass_v_1)
+(concept_label-concept_in_Eng-MRS_concept ho_5 become_1 _become_v_id)
+(concept_label-concept_in_Eng-MRS_concept ho_6 be_4 _be_v_id)
