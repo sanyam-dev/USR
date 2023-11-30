@@ -87,6 +87,12 @@ class USR:
 		"""
 		return self.root_folder_path
 	
+	def set_input_mode(self, input_mode):
+		self.input_mode = input_mode
+	
+	def get_input_mode(self):
+		return self.input_mode
+	
 	def create_res_folder(self, path):
 		"""
 			in case a result folder is not yet created at the 
@@ -224,7 +230,7 @@ class USR:
 				print(" add ", curr_usr[6], pos_main_curr_usr)
 				usr_id = prev_filename	
 				final_string_to_append = usr_id + '.' + str(pos_main_prev_usr + 1) + ':' + discourse_relation_from_sentence
-				curr_usr[6][pos_main_curr_usr] = final_string_to_append
+				curr_usr[6][pos_main_curr_usr] += final_string_to_append + ' '
 			else:
 				"""
 					if the usr to be updated is previous USR list,
@@ -258,7 +264,7 @@ class USR:
 				print(prev_usr[6], pos_main_prev_usr)
 				usr_id = curr_filename
 				final_string_to_append = usr_id + '.' + str(pos_main_curr_usr + 1) + ':' + discourse_relation_from_sentence
-				prev_usr[6][pos_main_prev_usr] = final_string_to_append
+				prev_usr[6][pos_main_prev_usr] += final_string_to_append + ' '
 				# try:
 				# except IndexError:
 				# 	print("error : ", prev_usr[6], pos_main_prev_usr, final_string_to_append)
@@ -278,38 +284,66 @@ class USR:
 		#create the res folder or print if the folder already exists
 		self.create_res_folder(self.res_folder_path)
 		
-		#traverse to the subfolders inside root folder
-		for _, sub_folder, filenames in os.walk(self.root_folder_path):
-			if sub_folder.__sizeof__ != 0:
+		if self.input_mode == 0: 
+			#traverse the files inside the folder:
+			for _, _, filenames in os.walk(self.root_folder_path): 
+				filenames = sorted(filenames)
+				prev_usr = []
+				curr_usr = []
+				prev_filename = "0"
 				
-				for sub_folder_name in sub_folder:
-					sub_folder_path = self.root_folder_path +  "/" + sub_folder_name
-					path = self.res_folder_path + "/" + sub_folder_name 
-					self.create_res_folder(path)
+				#for each file, try rule-based discourse prediction
+				for filename in filenames:
+					file_path	= self.root_folder_path + "/" + filename
 					
-					#traverse all the files inside the subfolder
-					for _, _, filenames in os.walk(sub_folder_path): 
-						filenames = sorted(filenames)
-						prev_usr = []
-						curr_usr = []
-						prev_filename = "0"
-						
-						#for each file, try rule-based discourse prediction
-						for filename in filenames:
-							file_path	= sub_folder_path + "/" + filename
+					with open(file_path, "r") as file:
+							content = file.read()
 							
-							with open(file_path, "r") as file:
-									content = file.read()
-									
-									if content.find("\n") != -1:	#content not empty
-										curr_usr = self.convert_to_usr(file_path) #converts the file content into a list object. This creates a USR list.
-										prev_usr, curr_usr = self.process_usr(prev_filename, prev_usr, filename, curr_usr)
-										self.save_usr_to_txt(prev_usr, prev_filename, path)
-										self.save_usr_to_txt(curr_usr, filename, path)
-										prev_filename = filename
-										prev_usr = curr_usr  #current usr becomes the PREVIOUS USR for future file
+							if content.find("\n") != -1:	#content not empty
+								curr_usr = self.convert_to_usr(file_path) #converts the file content into a list object. This creates a USR list.
+								prev_usr, curr_usr = self.process_usr(prev_filename, prev_usr, filename, curr_usr)
+								self.save_usr_to_txt(prev_usr, prev_filename, self.res_folder_path)
+								self.save_usr_to_txt(curr_usr, filename, self.res_folder_path)
+								prev_filename = filename
+								prev_usr = curr_usr  #current usr becomes the PREVIOUS USR for future file
+								
+				#removes the dummy file thus created
+				os.remove(self.res_folder_path + "/" + "0.txt")
+				break
+	
+		else:
+			#traverse to the subfolders inside root folder
+			for _, sub_folder, filenames in os.walk(self.root_folder_path):
+				if sub_folder.__sizeof__ != 0:
+					
+					for sub_folder_name in sub_folder:
+						sub_folder_path = self.root_folder_path +  "/" + sub_folder_name
+						path = self.res_folder_path + "/" + sub_folder_name 
+						self.create_res_folder(path)
+						
+						#traverse all the files inside the subfolder
+						for _, _, filenames in os.walk(sub_folder_path): 
+							filenames = sorted(filenames)
+							prev_usr = []
+							curr_usr = []
+							prev_filename = "0"
+							
+							#for each file, try rule-based discourse prediction
+							for filename in filenames:
+								file_path	= sub_folder_path + "/" + filename
+								
+								with open(file_path, "r") as file:
+										content = file.read()
 										
-						#removes the dummy file thus created
-						os.remove(self.res_folder_path + "/" + sub_folder_name + "/" + "0.txt")
-						break
-			
+										if content.find("\n") != -1:	#content not empty
+											curr_usr = self.convert_to_usr(file_path) #converts the file content into a list object. This creates a USR list.
+											prev_usr, curr_usr = self.process_usr(prev_filename, prev_usr, filename, curr_usr)
+											self.save_usr_to_txt(prev_usr, prev_filename, path)
+											self.save_usr_to_txt(curr_usr, filename, path)
+											prev_filename = filename
+											prev_usr = curr_usr  #current usr becomes the PREVIOUS USR for future file
+											
+							#removes the dummy file thus created
+							os.remove(self.res_folder_path + "/" + sub_folder_name + "/" + "0.txt")
+							break
+				
