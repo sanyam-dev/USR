@@ -1,10 +1,10 @@
-#राम ने बहुत प्रयास किय
+#राम ने बहुत प्रयास किया
 rAma,bahuwa_1,prayAsa+kara_1-yA_1 
 1,2,3
 anim,,
 [m sg a],,
 3:k1,3.1:mod,0:main
-,,3b.3:vyABicAra
+,,3b.3:vyABicAra 
 ,,
 ,,
 affirmative

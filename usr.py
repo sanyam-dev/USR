@@ -140,8 +140,8 @@ class USR:
 						if element == None:
 							element = ""
 						output_string += element + ','
-						
-				file.write(output_string[:-1] + '\n')
+					output_string = output_string[:-1]
+				file.write(output_string + '\n')
 		file.close()
 
 	def get_main_str(self, usr):
@@ -199,7 +199,7 @@ class USR:
 			if select_usr_to_append == "1":
 				"""
 					if the USR to be updated is the current USR list,
-					then we need to append the usr id of previous file 
+					d 
 					e.g. :
 					
 						merI pehlI gADZI coTI WI  lekina xUsarI gAdZI Limousine ke AkAra kI hE
