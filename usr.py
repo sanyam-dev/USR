@@ -10,7 +10,14 @@ class USR:
 		e.g.  : root -> sub_folder_1 -> usr_file.txt
 	"""
 	def __init__(self) -> None:
-			#set of single word markers
+			self.set_marker_info()
+			#module to convert from devnagri to wx
+			self.convert_to_wx = WXC(order='utf2wx')
+			self.res_folder_path = ""
+			self.root_folder_path = ""
+	
+	def set_marker_info(self):
+		#set of single word markers
 			self.markers = {"Ora", "evaM", "waWA", "agara", "yaxi", "wo", "kyoMki",
 				"isIlie","jabaki","yaxyapi","waWApi","yaxyapi","Pira BI",
 				"lekina","kiMwu","paraMwu","jaba","waba","yA","aWavA", 'viparIwa'}
@@ -46,6 +53,8 @@ class USR:
 			
 			#maps whether the discourse relation is to be 
 			#concatenated to current USR or previous USR
+			#0  means discourse relation to be added to prev_usr
+			#1  means discourse relation to be added to curr_usr
 			self.discourse_pos = {
 				"samuccaya" : "1",
 				"anyawra": "1",
@@ -55,12 +64,12 @@ class USR:
 				"kArya-kAraNa": "1",
 				"AvaSyakwA-pariNAma": "0"
 			}
-			
-			#module to convert from devnagri to wx
-			self.convert_to_wx = WXC(order='utf2wx')
-			self.res_folder_path = ""
-			self.root_folder_path = ""
 	
+	def get_marker_info(self):
+		"""
+			returns markers, multi-word-markers, discourse relations, discourse_pos
+		"""
+		return self.markers, self.multi_word_markers, self.discourse_relation, self.discourse_pos
 	
 	def set_res_folder_path(self, res_path):
 		"""
@@ -162,6 +171,7 @@ class USR:
 		sent = sentence[0]
 		
 		for i in range(len(sentence)-1):
+			print(sent)
 			if sent in self.markers or sent in self.multi_word_markers:
 				return self.discourse_relation[sent]
 			sent += " " + sentence[i+1]
@@ -347,3 +357,48 @@ class USR:
 							os.remove(self.res_folder_path + "/" + sub_folder_name + "/" + "0.txt")
 							break
 				
+
+class discourseMarkerParser(USR):
+	"""
+		returns discourse relation between two sentence by traversing 
+		first three words of both sentences. 
+		Child class of USR
+	"""
+	def __init__(self, sent1:str, sent2:str):
+		super().__init__()
+		sent1 = sent1.split(' ', 1)
+		sent2 = sent2.split(' ', 1)
+		sent1_wx = self.convert_to_wx.convert(sent1[1])
+		sent2_wx = self.convert_to_wx.convert(sent2[1])
+		self.run_process(sent1[0], sent1_wx, sent2[0], sent2_wx)
+		
+	def run_process(self, sent1_id:str, sent1:str, sent2_id:str, sent2:str):
+		self.id1 = sent1_id
+		self.s1 = sent1
+		self.id2 = sent2_id
+		self.s2 = sent2
+		self.res_s1, self.res_disc, self.res_s2 = self.set_result()
+		
+	def get_discourse_from_word(self, sentence:str):
+		sent = sentence.split()
+		s = sent[0]
+		for i in range(len(sent) - 1):
+			if s in self.markers or s in self.multi_word_markers:
+				return self.discourse_relation[s]
+			s += ' ' + sent[i+1]
+		return "-1"
+	
+	def set_result(self):
+		disc_relation = self.get_discourse_from_word(self.s1)
+		if disc_relation == "-1":
+			disc_relation = self.get_discourse_from_word(self.s2)
+			if disc_relation == "-1":
+				return self.s1, "NaN", self.s2
+		
+		disc_pos = self.discourse_pos[disc_relation]
+		if disc_pos == 0:
+			return self.s2, disc_relation, self.s1
+		return self.s1, disc_relation, self.s2
+	
+	def get_results(self):
+		return self.res_s1, self.res_disc, self.res_s2
