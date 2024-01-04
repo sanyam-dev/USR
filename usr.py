@@ -23,7 +23,9 @@ class USR:
 				"lekina","kiMwu","paraMwu","jaba","waba","yA","aWavA", 'viparIwa'}
 			
 			#set of multi words marker
-			self.multi_word_markers = {"isake pariNAma svarupa", 'isake viparIwa'}
+			self.multi_word_markers = {"isake pariNAma svarupa", 'isake viparIwa',
+							  "isake alAvA", 'isake awirikwa', 'isake sAWa-sAWa'
+								}
 			
 			#maps all the markers to respective discourse relations
 			self.discourse_relation = {
@@ -48,13 +50,17 @@ class USR:
 					"aWavA": "anyawra",
 					'isake pariNAma svarupa' : "vyABicAra",
 					'isake viparIwa' : "viroXi",
-					"viparIwa" : 'viroXi'
+					"viparIwa" : 'viroXi',
+					"isake alAvA" : 'samuccaya xowaka' ,
+					'isake awirikwa' : 'samuccaya xowaka', 
+					'isake sAWa-sAWa' : 'samuccaya xowaka',
 			}
 			
 			#maps whether the discourse relation is to be 
 			#concatenated to current USR or previous USR
 			#0  means discourse relation to be added to prev_usr
 			#1  means discourse relation to be added to curr_usr
+			#x 	means discourse relation to be added to curr_usr and 'x' to be added in the 8th row
 			self.discourse_pos = {
 				"samuccaya" : "1",
 				"anyawra": "1",
@@ -62,7 +68,8 @@ class USR:
 				"viroXi": "1",
 				"vyABicAra":"0",
 				"kArya-kAraNa": "1",
-				"AvaSyakwA-pariNAma": "0"
+				"AvaSyakwA-pariNAma": "0",
+				"samuccaya xowaka" : 'x',
 			}
 	
 	def get_marker_info(self):
@@ -206,7 +213,7 @@ class USR:
 			pos_main_prev_usr = self.get_main_str(prev_usr)	#find position of 0:main in previous usr list
 			pos_main_curr_usr = self.get_main_str(curr_usr)	#find position of 0:main in current usr list
 			print("val: ",sentence_without_hash, discourse_relation_from_sentence, pos_main_curr_usr, pos_main_prev_usr, select_usr_to_append)
-			if select_usr_to_append == "1":
+			if select_usr_to_append == "1" or select_usr_to_append == 'x':
 				"""
 					if the USR to be updated is the current USR list,
 					d 
@@ -241,6 +248,8 @@ class USR:
 				usr_id = prev_filename	
 				final_string_to_append = usr_id + '.' + str(pos_main_prev_usr + 1) + ':' + discourse_relation_from_sentence
 				curr_usr[6][pos_main_curr_usr] += final_string_to_append + ' '
+				if select_usr_to_append == 'x':
+					curr_usr[7][pos_main_curr_usr]  = 'X'
 			else:
 				"""
 					if the usr to be updated is previous USR list,
